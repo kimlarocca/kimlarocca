@@ -1,0 +1,149 @@
+[
+  {
+    "name": "WNYC Radio",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1637972133/kimlarocca/portfolio/wnyc_nks1yf.png",
+    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1637969874/kimlarocca/portfolio/wnyc-showcase_fe7dbq.png",
+    "category": "media",
+    "description": "Kim led the NY Public Radio digital team in building a cutting edge online radio experience for WNYC using Vue & Nuxt. Nuxt did a case study on this project, read more at <a href='https://nuxtjs.org/case-studies/new-york-public-radio' target='_blank'>https://nuxtjs.org/case-studies/new-york-public-radio</a>, or listen to WNYC online at <a href='https://wnyc.org/radio' target='_blank'>https://wnyc.org/radio</a>!"
+  },
+  {
+    "name": "Equal Time",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1673032774/kimlarocca/portfolio/equal-time-thumbnail_fjtinh.jpg",
+    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1673117201/kimlarocca/portfolio/Large_Zoom_Screenshot_zsdfag.jpg",
+    "category": "tech",
+    "description": "Equal Time's mission is to make meetings more inclusive and effective. Kim co-founded this startup and is the acting CTO. She drives all aspects of Engineering, Design and Product, building web apps with data visualization dashboards, chrome extensions and Zoom apps. In addition, she assists with fundraising and recruiting. The websites and Zoom App were built with a Vue frontend and Node.js backend, Supabase, and Azure for hosting and DevOps. Check out Equal Time online at <a href='https://www.equaltime.io/' target='_blank'>https://www.equaltime.io</a>!"
+  },
+  {
+    "name": "Black Lives Matter",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1637969272/kimlarocca/portfolio/showcase-blm_cover_gr810p.jpg",
+    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1637969272/kimlarocca/portfolio/showcase-blm_of3vxq.jpg",
+    "category": "tech",
+    "description": "Kim volunteers with Black Lives Matter and creates websites pro bono for local chapters. Shown here is the website for the Morristown, NJ chapter. This project included the design, frontend development using Vue.js, CMS setup and integration using Storyblok, as well as DevOps with Media Temple and CircleCi."
+  },
+  {
+    "name": "Radiolab",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1673033543/kimlarocca/portfolio/radiolab-thumbnail_yiyiku.jpg",
+    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1673033432/kimlarocca/portfolio/radolab_rvqqhj.jpg",
+    "category": "media",
+    "description": "Radiolab is a popular podcast that asks deep questions and uses investigative journalism to get the answers. Kim led the NY Public Radio digital team in the development of a new website for Radiolab, built with Nuxt 3, Vue 3, and Algolia for search. Check it out online at <a href='https://radiolab.org' target='_blank'>https://radiolab.org</a>!"
+  },
+  {
+    "name": "Gothamist",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1637971865/kimlarocca/portfolio/gothamist_dpchcq.png",
+    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1673464356/kimlarocca/portfolio/gothamist_njzcjo.jpg",
+    "category": "media",
+    "description": "Kim led the NY Public Radio digital team in migrating the Gothamist website from Ember to Vue 3 & Nuxt 3 which resulted in 80% faster page speeds and a 45% increase in average session duration. Nuxt did a case study on this project, read more at <a href='https://nuxtjs.org/case-studies/new-york-public-radio' target='_blank'>https://nuxtjs.org/case-studies/new-york-public-radio</a>, or check it out online at <a href='https://gothamist.com' target='_blank'>https://gothamist.com</a>!"
+  },
+  {
+    "name": "Toys\"R\"Us Product Engine",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736146/kimlarocca/portfolio/tru_rapq1d.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-toys.jpg",
+    "category": "ecommerce",
+    "description": "The Toys\"R\"Us Product Engine was a responsive web application featuring dynamic filtering which had an 18.6% increase in conversion rate and did over 5.2MM in revenue, an increase of over 3MM from the previous year's landing page."
+  },
+  {
+    "name": "San Francisco Symphony",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736145/kimlarocca/portfolio/sanfran_usdfzm.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-sanfran.jpg",
+    "category": "ecommerce",
+    "description": "The San Francisco Symphony project included frontend development using Vue.js to build out a complete component library as well as Algolia integration for their new, interactive events calendar."
+  },
+  {
+    "name": "Babies\"R\"Us Happy Places",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736145/kimlarocca/portfolio/bru_xxkcos.jpg",
+    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1584736171/kimlarocca/portfolio/showcase-babies_bcvaor.jpg",
+    "category": "ecommerce",
+    "description": "Happy Places, a responsive e-commerce Micro-Destination, featured an interactive parallax experience with CSS animations, full screen image sliders, responsive tooltips and lightboxes."
+  },
+  {
+    "name": "Wyndham Worldwide",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736146/kimlarocca/portfolio/wyndham_ar9ybf.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-wyndham.jpg",
+    "category": "healthcare",
+    "description": "Real-time data visualization app built with Vue and Firebase for Wyndham Worldwide's revenue management department. Features an interactive chart and filtering system."
+  },
+  {
+    "name": "Eleven Eleven",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736145/kimlarocca/portfolio/11xi_gownmg.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-elevenXi.jpg",
+    "category": "small-business",
+    "description": "Eleven Eleven is a lifestyle cannabis company located in Southern Oregon. Frontend web development using Vue.js featuring a custom marijuana filtering system."
+  },
+  {
+    "name": "Elpis Pharmaceuticals",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736145/kimlarocca/portfolio/elpis_fcz9r6.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-elpis.jpg",
+    "category": "healthcare",
+    "description": "Elpis Pharmaceuticals completely re-branded their business including logo design, web design and other printed materials. The website features an animated hero and was developed complete with a custom CMS. Devops were included in this project as well (AWS servers and continuous integration pipelines)."
+  },
+  {
+    "name": "VBrick",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736146/kimlarocca/portfolio/vbrick_gdtrau.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-vbrick.jpg",
+    "category": "tech",
+    "description": "Frontend and backend development for the new VBrick website. The new site was built with Wordpress and features custom react gutenberg components."
+  },
+  {
+    "name": "Toys\"R\"Us Great Deals Store",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736146/kimlarocca/portfolio/tru2_l4sszw.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-toys-deals.jpg",
+    "category": "ecommerce",
+    "description": "This mobile friendly web store launched on the ToysRUs and BabiesRUs website on 10/9/15. It was powered by a custom web application built to improve cross functional efficiency that reduced the digital department headcount by 2 FTEs. In addition to internal time savings, the Great Deals Store generated over 30MM during the first few months it went live."
+  },
+  {
+    "name": "Luye Pharmaceuticals",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736146/kimlarocca/portfolio/luye_nzubri.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-luye.jpg",
+    "category": "healthcare",
+    "description": "The Luye Pharmaceuticals website features a cutting edge design to match its cutting edge technology, and the website was developed with a custom CMS. Devops were included in this project as well (AWS servers and continuous integration pipelines)."
+  },
+  {
+    "name": "TeamLogic IT",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736145/kimlarocca/portfolio/teamlogic_pluei0.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-teamlogic.jpg",
+    "category": "tech",
+    "description": "Frontend web development for the TeamLogic redesign. A complete component library was built with Vue, as well as custom, dynamic filtering systems for the careers and resources pages (also built with Vue)."
+  },
+  {
+    "name": "Real Estate",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736145/kimlarocca/portfolio/realestate_w768ko.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-realestate.jpg",
+    "category": "real-estate",
+    "description": "Responsive websites for realtors and brokers, with a custom CMS for managing website content, listings and photos. Dev ops were included in this project as all of the real estate websites are hosted and maintained as well."
+  },
+  {
+    "name": "S&A Solutions",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736145/kimlarocca/portfolio/sasolutions_iegjot.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-sa.jpg",
+    "category": "small-business",
+    "description": "S&A Solutions' website fully automates its staffing business. Built using Laravel and mysql, job seekers can search for and apply for jobs. Employers can log in, post jobs, and view applicants. S&A staff members can manage all aspects of the site including job seekers, employers, and users as well as generate reports. Devops were included in this project as well (AWS servers and continuous integration pipelines)."
+  },
+  {
+    "name": "Slate It",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736145/kimlarocca/portfolio/slateit_qqnqif.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-slateit.jpg",
+    "category": "ecommerce",
+    "description": "Web-based software for gyms, fitness centers & dance studios custom built using PHP, mySQL and the PayPal API. Devops were included in this project as well (MediaTemple servers)."
+  },
+  {
+    "name": "Vasculogic",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736146/kimlarocca/portfolio/vasculogic_ryfds8.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-vasculogic.jpg",
+    "category": "healthcare",
+    "description": "Responsive website featuring moving geometric backgrounds, full-width video backgrounds, and a mobile-friendly multi-level push menu. Logo and other presentation materials were designed as well. Devops were included in this project (MediaTemple servers)."
+  },
+  {
+    "name": "Abbvie iOS App",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736145/kimlarocca/portfolio/abbvie_er6c4p.jpg",
+    "url": "https://www.kimlarocca.com/images/showcase-abbvie.jpg",
+    "category": "healthcare",
+    "description": "iPad app for Abbvie Oncology. Displays drug information, clinical trials and videos so pharmaceutical sales reps have all the information they need when meeting with doctors."
+  },
+  {
+    "name": "Purdue University",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1639847634/kimlarocca/portfolio/purdue_wwvvzh.jpg",
+    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1639847637/kimlarocca/portfolio/purdue-showcase_w5sjnk.png",
+    "category": "education",
+    "description": "Frontend development for Purdue University's online recruitment website, which was integrated with their Sitecore backend and CMS."
+  }
+]

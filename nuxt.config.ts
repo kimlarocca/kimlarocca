@@ -22,12 +22,6 @@ export default defineNuxtConfig({
       ]
     },
   },
-  modules: ['@nuxtjs/supabase'],
-  supabase: {
-    url: process.env.NUXT_ENV_SUPABASE_URL,
-    key: process.env.NUXT_ENV_SUPABASE_KEY,
-    redirect: true,
-  },
   css: [
 		'primevue/resources/themes/mdc-light-deeppurple/theme.css',
     'primevue/resources/primevue.min.css',
@@ -39,13 +33,4 @@ export default defineNuxtConfig({
 	build: {
 		transpile: ['primevue'],
 	},
-  runtimeConfig: {
-    public: {
-      environment: process.env.environment || 'demo',
-      supabaseUrl: process.env.NUXT_ENV_SUPABASE_URL,
-      supabaseKey: process.env.NUXT_ENV_SUPABASE_KEY,
-      supabaseAuthSignInRedirectTo: process.env.NUXT_ENV_SUPABASE_AUTH_SIGN_IN_REDIRECT_TO,
-      supabaseAuthTokenName: process.env.NUXT_ENV_SUPABASE_AUTH_TOKEN_NAME,
-    }
-  },
 })

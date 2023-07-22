@@ -13,10 +13,9 @@
     "sass": "^1.56.1"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.2.3",
     "primeflex": "^3.3.0",
     "primeicons": "^6.0.1",
     "primevue": "^3.20.0",
-    "vue3-apexcharts": "^1.4.1"
+    "three": "^0.113.2"
   }
 }

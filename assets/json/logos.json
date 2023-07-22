@@ -1,0 +1,257 @@
+[
+  {
+    "name": "abbvie",
+    "url": "https://www.kimlarocca.com/images/logos/abbvie.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "alcresta",
+    "url": "https://www.kimlarocca.com/images/logos/alcresta.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "astrazeneca",
+    "url": "https://www.kimlarocca.com/images/logos/astrazeneca.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "aventis",
+    "url": "https://www.kimlarocca.com/images/logos/aventis.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "babies r us",
+    "url": "https://www.kimlarocca.com/images/logos/babies.jpg",
+    "category": "ecommerce"
+  },
+  {
+    "name": "bausch",
+    "url": "https://www.kimlarocca.com/images/logos/bausch.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "bayer",
+    "url": "https://www.kimlarocca.com/images/logos/bayer.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "blackthorn",
+    "url": "https://www.kimlarocca.com/images/logos/blackthorn.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "bluebird",
+    "url": "https://www.kimlarocca.com/images/logos/bluebird.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "celgene",
+    "url": "https://www.kimlarocca.com/images/logos/celgene.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "dendreon",
+    "url": "https://www.kimlarocca.com/images/logos/dendreon.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "dermira",
+    "url": "https://www.kimlarocca.com/images/logos/dermira.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "easterseals",
+    "url": "https://www.kimlarocca.com/images/logos/easterseals.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "elpis",
+    "url": "https://www.kimlarocca.com/images/logos/elpis.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "emd",
+    "url": "https://www.kimlarocca.com/images/logos/emd.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "fao",
+    "url": "https://www.kimlarocca.com/images/logos/fao.jpg",
+    "category": "ecommerce"
+  },
+  {
+    "name": "gothamist",
+    "url": "https://www.kimlarocca.com/images/logos/gothamist.png",
+    "category": "media"
+  },
+  {
+    "name": "ibm",
+    "url": "https://www.kimlarocca.com/images/logos/ibm.jpg",
+    "category": "tech"
+  },
+  {
+    "name": "incyte",
+    "url": "https://www.kimlarocca.com/images/logos/incyte.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "intel",
+    "url": "https://www.kimlarocca.com/images/logos/intel.jpg",
+    "category": "tech"
+  },
+  {
+    "name": "intercept",
+    "url": "https://www.kimlarocca.com/images/logos/intercept.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "intuitive",
+    "url": "https://www.kimlarocca.com/images/logos/intuitive.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "ipsen",
+    "url": "https://www.kimlarocca.com/images/logos/ipsen.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "kaplan",
+    "url": "https://www.kimlarocca.com/images/logos/kaplan.png",
+    "category": "education"
+  },
+  {
+    "name": "kowa",
+    "url": "https://www.kimlarocca.com/images/logos/kowa.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "lupin",
+    "url": "https://www.kimlarocca.com/images/logos/lupin.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "luye",
+    "url": "https://www.kimlarocca.com/images/logos/luye.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "mentoring method",
+    "url": "https://www.kimlarocca.com/images/logos/mentoring-method.jpg",
+    "category": "education"
+  },
+  {
+    "name": "merck",
+    "url": "https://www.kimlarocca.com/images/logos/merck.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "nbc",
+    "url": "https://www.kimlarocca.com/images/logos/nbc.jpg",
+    "category": "media"
+  },
+  {
+    "name": "new sounds",
+    "url": "https://www.kimlarocca.com/images/logos/new-sounds.jpg",
+    "category": "media"
+  },
+  {
+    "name": "nj public radio",
+    "url": "https://www.kimlarocca.com/images/logos/NJPR.png",
+    "category": "media"
+  },
+  {
+    "name": "novartis",
+    "url": "https://www.kimlarocca.com/images/logos/novartis.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "npc",
+    "url": "https://www.kimlarocca.com/images/logos/npc.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "ny public radio",
+    "url": "https://www.kimlarocca.com/images/logos/NYPR.png",
+    "category": "media"
+  },
+  {
+    "name": "purdue",
+    "url": "https://www.kimlarocca.com/images/logos/purdue.png",
+    "category": "education"
+  },
+  {
+    "name": "pfizer",
+    "url": "https://www.kimlarocca.com/images/logos/pfizer.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "profusa",
+    "url": "https://www.kimlarocca.com/images/logos/profusa.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "radiolab",
+    "url": "https://www.kimlarocca.com/images/logos/radiolab.png",
+    "category": "media"
+  },
+  {
+    "name": "rhythm",
+    "url": "https://www.kimlarocca.com/images/logos/rhythm.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "roche",
+    "url": "https://www.kimlarocca.com/images/logos/roche.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "rutgers",
+    "url": "https://www.kimlarocca.com/images/logos/rutgers.png",
+    "category": "education"
+  },
+  {
+    "name": "sanofi",
+    "url": "https://www.kimlarocca.com/images/logos/sanofi.jpg",
+    "category": "healthcare"
+  },
+  {
+    "name": "schering",
+    "url": "https://www.kimlarocca.com/images/logos/shcering.png",
+    "category": "healthcare"
+  },
+  {
+    "name": "siemens",
+    "url": "https://www.kimlarocca.com/images/logos/siemens.png",
+    "category": "tech"
+  },
+  {
+    "name": "slate it",
+    "url": "https://www.kimlarocca.com/images/logos/slateit.png",
+    "category": "ecommerce"
+  },
+  {
+    "name": "toys r us",
+    "url": "https://www.kimlarocca.com/images/logos/toys.png",
+    "category": "ecommerce"
+  },
+  {
+    "name": "visa",
+    "url": "https://www.kimlarocca.com/images/logos/visa.jpg",
+    "category": "ecommerce"
+  },
+  {
+    "name": "wharton",
+    "url": "https://www.kimlarocca.com/images/logos/wharton.jpg",
+    "category": "education"
+  },
+  {
+    "name": "wnyc",
+    "url": "https://www.kimlarocca.com/images/logos/wnyc.jpg",
+    "category": "media"
+  },
+  {
+    "name": "wqxr",
+    "url": "https://www.kimlarocca.com/images/logos/wqxr.jpg",
+    "category": "media"
+  }
+]

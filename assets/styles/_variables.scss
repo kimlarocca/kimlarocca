@@ -1,0 +1,92 @@
+$breakpoint-tablet: 1126px;
+$breakpoint-mobile: 563px;
+$nav-breakpoint: 1100px;
+
+//Colors
+$white: #f3ede5;
+$background-color: $white;
+$light-gray: #d6ced0;
+$medium-gray: #aea8aa;
+$dark-gray: #25261f;
+$primary-color: #d2c8cb;
+$secondary-color: #c40731;
+$tertiary-color: #e9a568;
+$quaternary-color: #714954;
+
+//Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Domine&display=swap');
+
+$primary-font-family: 'Open Sans', sans-serif;
+$secondary-font-family: 'Domine', sans-serif;
+
+//Typography
+$h1-font-family: $primary-font-family;
+$h1-size: 80px;
+$h1-weight: 300;
+$h1-color: $white;
+$h1-line-height: 1.25em;
+$h1-margin: 0;
+$h1-transform: none;
+
+$h2-font-family: $secondary-font-family;
+$h2-size: 4rem;
+$h2-weight: 400;
+$h2-color: $dark-gray;
+$h2-line-height: 1.25em;
+$h2-margin: 0;
+$h2-transform: none;
+
+$h3-font-family: $primary-font-family;
+$h3-size: 25px;
+$h3-weight: 300;
+$h3-color: $dark-gray;
+$h3-line-height: 1.5em;
+$h3-margin: 0;
+$h3-transform: uppercase;
+
+$h4-font-family: $primary-font-family;
+$h4-size: 16px;
+$h4-weight: 600;
+$h4-color: $dark-gray;
+$h4-line-height: 1.5em;
+$h4-margin: 0;
+$h4-transform: none;
+
+$p-font-family: $primary-font-family;
+$p-size: 17px;
+$p-weight: 300;
+$p-color: $dark-gray;
+$p-line-height: 1.75em;
+$p-margin: 0;
+$p-transform: none;
+
+//Links
+$link-color: $tertiary-color;
+$link-decoration: none;
+$link-color-hover: $secondary-color;
+$link-decoration-hover: none;
+
+//Buttons
+$button-font: $primary-font-family;
+$button-font-size: 16px;
+$button-font-color: $dark-gray;
+$button-font-weight: 600;
+$button-text-transform: capitalize;
+$button-background-color: $white;
+$button-border: $dark-gray 1px solid;
+$button-background-color-hover: $dark-gray;
+$button-font-color-hover: $white;
+$button-border-hover: $dark-gray 1px solid;
+$button-padding: 1rem 2rem;
+$button-transition: 0.25s all linear;
+
+//Lists
+$ul-margin: 0;
+$li-content: '\2022'; //set to a bullet ('\2022') by default
+$li-content-color: $dark-gray;
+$li-content-size: 16px;
+$li-content-distance-from-top: 0;
+$li-content-distance-from-left: 20px;
+
+$transition: 200ms linear all;

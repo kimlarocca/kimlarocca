@@ -76,7 +76,6 @@ textarea {
 }
 
 textarea + p {
-  @include typeface(body, 2);
   color: RGB(var(--color-text-muted));
   margin-top: var(--space-1);
   text-align: right;
@@ -141,7 +140,6 @@ label.error {
   }
 
   p {
-    @include typeface(body, 2);
     color: var(--color-text-error);
     margin-top: var(--space-1);
   }
