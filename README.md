@@ -1,6 +1,6 @@
 # Hi, I'm Kim!
 
-<img src="https://media.giphy.com/media/da0NgyClHpA4jqUoav/giphy.gif" width="30%" height="30%" style="background:black; margin-bottom:30px;">
+<img src="https://media.giphy.com/media/da0NgyClHpA4jqUoav/giphy.gif" width="50%" height="50%" style="background:black; margin-bottom:30px;">
 
 ## I'm a co-founder and core maintainer of [Equal Time 🌈](https://equaltime.io) you should [try it right now](https://app.equaltime.io/onboarding)!
 
