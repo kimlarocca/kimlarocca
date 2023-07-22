@@ -1,10 +1,10 @@
-# [![kim larocca header](https://media.giphy.com/media/eHcUE95cmYB5olIUXq/giphy.gif)](https://kimlarocca.com)
-
 # Hi, I'm Kim!
+
+<img src="https://media.giphy.com/media/da0NgyClHpA4jqUoav/giphy.gif" width="30%" height="30%" style="background:black; margin-bottom:30px;">
 
 ### I'm a co-founder and core maintainer of [Equal Time 🌈](https://equaltime.io) you should [try it right now](https://app.equaltime.io/onboarding)!
 
-<img src="https://media.giphy.com/media/da0NgyClHpA4jqUoav/giphy.gif" width="30%" height="30%" style="background:black; margin:30px 0;">
+A little bit about me...
 
 ```javascript
 const kim = {
