@@ -2,7 +2,7 @@ const client_manifest = {
   "layouts/blank.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "blank.04e59e72.js",
+    "file": "blank.df98db7d.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -12,7 +12,7 @@ const client_manifest = {
   "layouts/default.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "default.fab01f84.js",
+    "file": "default.c03a9a8f.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -21,7 +21,7 @@ const client_manifest = {
   },
   "node_modules/nuxt/dist/app/entry.css": {
     "resourceType": "style",
-    "file": "entry.694a16df.css",
+    "file": "entry.e5642a58.css",
     "src": "node_modules/nuxt/dist/app/entry.css"
   },
   "node_modules/nuxt/dist/app/entry.js": {
@@ -42,19 +42,19 @@ const client_manifest = {
       "primeicons.5e10f102.svg"
     ],
     "css": [
-      "entry.694a16df.css"
+      "entry.e5642a58.css"
     ],
     "dynamicImports": [
       "layouts/blank.vue",
       "layouts/default.vue",
       "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs"
     ],
-    "file": "entry.73dfbfe6.js",
+    "file": "entry.37bf8c7d.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js"
   },
-  "entry.694a16df.css": {
-    "file": "entry.694a16df.css",
+  "entry.e5642a58.css": {
+    "file": "entry.e5642a58.css",
     "resourceType": "style"
   },
   "roboto-v20-latin-ext_latin-regular.b86b128b.woff2": {
@@ -189,32 +189,54 @@ const client_manifest = {
     "file": "roboto-v20-latin-ext_latin-regular.b86b128b.woff2",
     "src": "node_modules/primevue/resources/themes/mdc-light-deeppurple/fonts/roboto-v20-latin-ext_latin-regular.woff2"
   },
+  "pages/diss-card.css": {
+    "resourceType": "style",
+    "file": "diss-card.7526e3a0.css",
+    "src": "pages/diss-card.css"
+  },
+  "pages/diss-card.vue": {
+    "resourceType": "script",
+    "module": true,
+    "css": [
+      "diss-card.7526e3a0.css"
+    ],
+    "file": "diss-card.c3f20b1f.js",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/diss-card.vue"
+  },
+  "diss-card.7526e3a0.css": {
+    "file": "diss-card.7526e3a0.css",
+    "resourceType": "style"
+  },
   "pages/index.css": {
     "resourceType": "style",
-    "file": "index.d847f279.css",
+    "file": "index.dbfe8a9e.css",
     "src": "pages/index.css"
   },
   "pages/index.vue": {
     "resourceType": "script",
     "module": true,
     "css": [
-      "index.d847f279.css"
+      "index.dbfe8a9e.css"
     ],
-    "file": "index.9d44528f.js",
+    "file": "index.749262fc.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/index.vue"
   },
-  "index.d847f279.css": {
-    "file": "index.d847f279.css",
+  "index.dbfe8a9e.css": {
+    "file": "index.dbfe8a9e.css",
     "resourceType": "style"
   },
   "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs": {
     "resourceType": "script",
     "module": true,
-    "file": "error-component.b27ff50d.js",
+    "file": "error-component.7276f20b.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],

@@ -14,6 +14,7 @@ import FileUpload from 'primevue/fileupload';
 import AutoComplete from 'primevue/autocomplete';
 import ProgressBar from 'primevue/progressbar';
 import Sidebar from 'primevue/sidebar';
+import Tooltip from 'primevue/tooltip'
 
 export default defineNuxtPlugin( ( nuxtApp ) => {
     nuxtApp.vueApp.use( PrimeVue, {
@@ -29,4 +30,6 @@ export default defineNuxtPlugin( ( nuxtApp ) => {
     nuxtApp.vueApp.component( 'AutoComplete', AutoComplete )
     nuxtApp.vueApp.component( 'ProgressBar', ProgressBar )
     nuxtApp.vueApp.component( 'Sidebar', Sidebar )
+    nuxtApp.vueApp.component( 'Tooltip', Tooltip )
+    nuxtApp.vueApp.directive( 'tooltip', Tooltip )
 } )

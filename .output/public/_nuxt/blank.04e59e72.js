@@ -1,1 +1,0 @@
-import{_ as o,c as t,e as c,o as n,k as r}from"./entry.73dfbfe6.js";const s={},a={class:"p-4 container"};function _(i,l){const e=r("router-view");return n(),t("div",a,[c(e)])}const d=o(s,[["render",_]]);export{d as default};
