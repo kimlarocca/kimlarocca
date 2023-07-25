@@ -22,7 +22,9 @@
           {{ punchline.punchline }}
         </div>
       </div>
-      <Button @click="startNewRound">Start A New Round</Button>
+      <button class="button cursor-pointer" @click="startNewRound">
+        Start A New Round
+      </button>
     </div>
   </div>
 </template>
@@ -121,7 +123,6 @@ const startNewRound = () => {
   }
   .answer-card {
     background-color: var(--white);
-    border: 1px solid var(--black);
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(33, 33, 33, 0.1);
     padding: 20px;
