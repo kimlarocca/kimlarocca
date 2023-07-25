@@ -1,7 +1,7 @@
 <template>
   <div class="diss-card text-center">
     <h1 class="mb-6">Diss Card</h1>
-    <div class="judge" v-if="cards && cards[cardIndex]">
+    <template v-if="cards && cards[cardIndex]">
       <div class="card">
         Your {{ cards[cardIndex].subject }} is so
         {{ cards[cardIndex].adjective }}...
@@ -25,6 +25,27 @@
       <button class="button cursor-pointer" @click="startNewRound">
         Start A New Round
       </button>
+    </template>
+    <Divider class="my-6" />
+    <div class="text-left">
+      <p>
+        <u>subjects ({{ subjects.length }})</u>
+      </p>
+      <p v-for="(subject, index) in subjects" :key="index">
+        {{ subject.subject }}
+      </p>
+      <p class="mt-4">
+        <u>adjectives ({{ adjectives.length }})</u>
+      </p>
+      <p v-for="(adjective, index) in adjectives" :key="index">
+        {{ adjective.adjective }}
+      </p>
+      <p class="mt-4">
+        <u>punchlines ({{ punchlines.length }})</u>
+      </p>
+      <p v-for="(punchline, index) in sortedPunchlines" :key="index">
+        ({{ punchline.category }}) {{ punchline.punchline }}
+      </p>
     </div>
   </div>
 </template>
@@ -93,6 +114,19 @@ const startNewRound = () => {
     refreshCard()
   }
 }
+
+// computed property that sorts the punchlines by category
+const sortedPunchlines = computed(() => {
+  return punchlines.value.sort((a, b) => {
+    if (a.category < b.category) {
+      return -1
+    }
+    if (a.category > b.category) {
+      return 1
+    }
+    return 0
+  })
+})
 </script>
 
 <style lang="scss">
