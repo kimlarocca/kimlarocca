@@ -4,7 +4,7 @@
     <div class="judge" v-if="cards && cards[cardIndex]">
       <div class="card">
         Your {{ cards[cardIndex].subject }} is so
-        {{ cards[cardIndex].adjective }} that ...
+        {{ cards[cardIndex].adjective }}...
       </div>
       <Button
         class="p-button-outlined p-button-rounded refresh mb-4"
@@ -114,8 +114,8 @@ const startNewRound = () => {
     min-height: 320px;
     margin: 20px auto;
     text-align: left;
-    font-size: 1.75rem;
-    font-weight: 400;
+    font-size: 2.5rem;
+    font-weight: 300;
     line-height: 1.4;
     color: var(--white);
   }
