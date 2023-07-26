@@ -1,5 +1,5 @@
 <template>
-  <div class="diss-card text-center">
+  <div v-if="punchlines" class="diss-card text-center">
     <h1 class="mb-6">Diss Card</h1>
     <template v-if="cards && cards[cardIndex]">
       <div class="card">
@@ -13,11 +13,11 @@
         @click="refreshCard"
         v-tooltip="'Select a new card'"
       />
-      <div class="flex mt-4 mb-6">
+      <div class="grid mt-4 mb-6 justify-content-center">
         <div
           v-for="(punchline, index) in punchlines.slice(0, 7)"
           :key="index"
-          class="answer-card mx-2"
+          class="col col-4 md:col-3 lg:col-2 xl:col answer-card mx-2 mb-3"
         >
           {{ punchline.punchline }}
         </div>
@@ -26,27 +26,6 @@
         Start A New Round
       </button>
     </template>
-    <Divider class="my-6" />
-    <div class="text-left">
-      <p>
-        <u>subjects ({{ subjects.length }})</u>
-      </p>
-      <p v-for="(subject, index) in subjects" :key="index">
-        {{ subject.subject }}
-      </p>
-      <p class="mt-4">
-        <u>adjectives ({{ adjectives.length }})</u>
-      </p>
-      <p v-for="(adjective, index) in adjectives" :key="index">
-        {{ adjective.adjective }}
-      </p>
-      <p class="mt-4">
-        <u>punchlines ({{ punchlines.length }})</u>
-      </p>
-      <p v-for="(punchline, index) in sortedPunchlines" :key="index">
-        ({{ punchline.category }}) {{ punchline.punchline }}
-      </p>
-    </div>
   </div>
 </template>
 
@@ -67,23 +46,21 @@ const punchlines = ref(null)
 const subjects = ref(null)
 
 // get subjects from supabase
-let { data: subjectsData } = await supabase.from('subjects').select('*')
+let { data: subjectsData } = await supabase
+  .from('subjects')
+  .select('*')
+  .order('subject')
 if (subjectsData) {
   subjects.value = subjectsData
 }
 
 // get adjectives from supabase
-let { data: adjectivesData } = await supabase.from('adjectives').select('*')
+let { data: adjectivesData } = await supabase
+  .from('adjectives')
+  .select('*')
+  .order('adjective')
 if (adjectivesData) {
   adjectives.value = adjectivesData
-}
-
-// get punchlines from supabase
-let { data: punchlinesData } = await supabase.from('punchlines').select('*')
-if (punchlinesData) {
-  punchlines.value = punchlinesData
-  // randomize the punchlines
-  punchlines.value.sort(() => Math.random() - 0.5)
 }
 
 // populate the cards array with all possible combinations of the subjects and adjectives arrays
@@ -95,7 +72,7 @@ for (let i = 0; i < subjects.value.length; i++) {
     })
   }
 }
-// randomize the cards
+// then randomize the cards
 cards.value.sort(() => Math.random() - 0.5)
 
 const refreshCard = () => {
@@ -115,24 +92,23 @@ const startNewRound = () => {
   }
 }
 
-// computed property that sorts the punchlines by category
-const sortedPunchlines = computed(() => {
-  return punchlines.value.sort((a, b) => {
-    if (a.category < b.category) {
-      return -1
-    }
-    if (a.category > b.category) {
-      return 1
-    }
-    return 0
-  })
-})
+// get punchlines from supabase
+let { data: punchlinesData } = await supabase
+  .from('punchlines')
+  .select('*')
+  .order('id')
+if (punchlinesData) {
+  punchlines.value = punchlinesData
+}
 </script>
 
 <style lang="scss">
 .diss-card {
   h1 {
     color: var(--black);
+    @media (max-width: 769px) {
+      font-size: 3.5rem;
+    }
   }
   .cards {
     display: flex;
@@ -160,8 +136,6 @@ const sortedPunchlines = computed(() => {
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(33, 33, 33, 0.1);
     padding: 20px;
-    width: 150px;
-    max-width: 100%;
     min-height: 225px;
     text-align: left;
     font-size: 1rem;

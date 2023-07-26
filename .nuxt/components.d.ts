@@ -2,6 +2,8 @@
 declare module 'vue' {
   export interface GlobalComponents {
     'Card': typeof import("../components/Card.vue")['default']
+    'DissCardAddPunchline': typeof import("../components/DissCard/AddPunchline.vue")['default']
+    'DissCardPunchline': typeof import("../components/DissCard/Punchline.vue")['default']
     'Hero': typeof import("../components/Hero.vue")['default']
     'PortfolioCard': typeof import("../components/PortfolioCard.vue")['default']
     'Reviews': typeof import("../components/Reviews.vue")['default']
@@ -30,6 +32,8 @@ declare module 'vue' {
     'Html': typeof import("../node_modules/nuxt/dist/head/runtime/components")['Html']
     'Body': typeof import("../node_modules/nuxt/dist/head/runtime/components")['Body']
     'LazyCard': typeof import("../components/Card.vue")['default']
+    'LazyDissCardAddPunchline': typeof import("../components/DissCard/AddPunchline.vue")['default']
+    'LazyDissCardPunchline': typeof import("../components/DissCard/Punchline.vue")['default']
     'LazyHero': typeof import("../components/Hero.vue")['default']
     'LazyPortfolioCard': typeof import("../components/PortfolioCard.vue")['default']
     'LazyReviews': typeof import("../components/Reviews.vue")['default']
@@ -61,6 +65,8 @@ declare module 'vue' {
 }
 
 export const Card: typeof import("../components/Card.vue")['default']
+export const DissCardAddPunchline: typeof import("../components/DissCard/AddPunchline.vue")['default']
+export const DissCardPunchline: typeof import("../components/DissCard/Punchline.vue")['default']
 export const Hero: typeof import("../components/Hero.vue")['default']
 export const PortfolioCard: typeof import("../components/PortfolioCard.vue")['default']
 export const Reviews: typeof import("../components/Reviews.vue")['default']
@@ -89,6 +95,8 @@ export const Head: typeof import("../node_modules/nuxt/dist/head/runtime/compone
 export const Html: typeof import("../node_modules/nuxt/dist/head/runtime/components")['Html']
 export const Body: typeof import("../node_modules/nuxt/dist/head/runtime/components")['Body']
 export const LazyCard: typeof import("../components/Card.vue")['default']
+export const LazyDissCardAddPunchline: typeof import("../components/DissCard/AddPunchline.vue")['default']
+export const LazyDissCardPunchline: typeof import("../components/DissCard/Punchline.vue")['default']
 export const LazyHero: typeof import("../components/Hero.vue")['default']
 export const LazyPortfolioCard: typeof import("../components/PortfolioCard.vue")['default']
 export const LazyReviews: typeof import("../components/Reviews.vue")['default']

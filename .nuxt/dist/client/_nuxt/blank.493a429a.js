@@ -1,0 +1,1 @@
+import{_ as o,c as t,f as c,d as n,o as r}from"./entry.42229b33.js";const s={},a={class:"p-2 container"};function _(i,d){const e=n("router-view");return r(),t("div",a,[c(e)])}const l=o(s,[["render",_]]);export{l as default};
