@@ -136,6 +136,8 @@ const punchlineCounts = computed(() => {
   punchlines.value.forEach((punchline) => {
     counts[punchline.category] = counts[punchline.category] + 1 || 1
   })
+  // remove the LIKE category from the counts object
+  delete counts.LIKE
   return counts
 })
 </script>
