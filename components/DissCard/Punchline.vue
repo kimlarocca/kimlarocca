@@ -14,6 +14,7 @@
       <option value="POOR">POOR</option>
       <option value="SHORT">SHORT</option>
       <option value="SKINNY">SKINNY</option>
+      <option value="SLUTTY">SLUTTY</option>
       <option value="STUPID">STUPID</option>
       <option value="TALL">TALL</option>
       <option value="UGLY">UGLY</option>
