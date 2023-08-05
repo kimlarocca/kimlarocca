@@ -126,8 +126,8 @@ let { data: punchlinesData } = await supabase
   .order('id')
 if (punchlinesData) {
   punchlines.value = punchlinesData
-  // add in the special cards 50 times each
-  for (let i = 0; i < 50; i++) {
+  // add in the special cards 20 times each
+  for (let i = 0; i < 20; i++) {
     punchlines.value.push(rubber)
     punchlines.value.push(discard)
     punchlines.value.push(win)
