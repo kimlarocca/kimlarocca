@@ -15,14 +15,22 @@
       />
       <div class="grid mt-4 mb-6 justify-content-center">
         <div
-          v-for="(punchline, index) in punchlines.slice(0, 7)"
+          v-for="(punchline, index) in punchlines.slice(0, 6)"
           :key="index"
           class="col col-4 md:col-3 lg:col-2 xl:col answer-card mx-2 mb-3"
+          :class="punchline.category"
         >
           {{ punchline.punchline }}
         </div>
+        <div class="col col-4 md:col-3 lg:col-2 xl:col answer-card mx-2 mb-3">
+          <textarea
+            type="text"
+            class="w-full"
+            placeholder="Enter your own punchline here!"
+          />
+        </div>
       </div>
-      <button class="button cursor-pointer" @click="startNewRound">
+      <button class="button cursor-pointer mb-6" @click="startNewRound">
         Start A New Round
       </button>
     </template>
@@ -63,6 +71,25 @@ if (adjectivesData) {
   adjectives.value = adjectivesData
 }
 
+// create special cards
+let rubber = {
+  category: 'SPECIAL',
+  punchline:
+    "I'm rubber, you're glue! (Block any card played by another player.)",
+}
+let discard = {
+  category: 'SPECIAL',
+  punchline: 'Discard a Diss Card! (Swap any card with another player.)',
+}
+let win = {
+  category: 'SPECIAL',
+  punchline: 'I know you are, but what am I? (Automatically win the round.)',
+}
+let whatever = {
+  category: 'SPECIAL',
+  punchline: 'What-eveeer. (Draw a new hand of cards.)',
+}
+
 // populate the cards array with all possible combinations of the subjects and adjectives arrays
 for (let i = 0; i < subjects.value.length; i++) {
   for (let j = 0; j < adjectives.value.length; j++) {
@@ -99,6 +126,15 @@ let { data: punchlinesData } = await supabase
   .order('id')
 if (punchlinesData) {
   punchlines.value = punchlinesData
+  // add in the special cards 50 times each
+  for (let i = 0; i < 50; i++) {
+    punchlines.value.push(rubber)
+    punchlines.value.push(discard)
+    punchlines.value.push(win)
+    punchlines.value.push(whatever)
+  }
+  // randomize the punchlines
+  punchlines.value.sort(() => Math.random() - 0.5)
 }
 </script>
 
@@ -149,6 +185,13 @@ if (punchlinesData) {
     &:hover {
       opacity: var(--opacity-on-hover);
     }
+    &.SPECIAL {
+      background-color: var(--blue);
+      color: var(--white);
+    }
+  }
+  textarea {
+    height: 180px;
   }
 }
 </style>
