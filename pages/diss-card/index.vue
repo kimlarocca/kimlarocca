@@ -3,6 +3,7 @@
     <h1 class="mb-6">Diss Card</h1>
     <template v-if="cards && cards[cardIndex]">
       <div class="card">
+        <span v-if="dissOff">DISS OFF!</span>
         Your {{ cards[cardIndex].subject }} is so
         {{ cards[cardIndex].adjective }}...
       </div>
@@ -50,6 +51,7 @@ const supabase = createClient(config.supabaseUrl, config.supabaseKey)
 const adjectives = ref(null)
 const cards = ref([])
 const cardIndex = ref(0)
+const dissOff = ref(false)
 const punchlines = ref(null)
 const subjects = ref(null)
 
@@ -83,7 +85,7 @@ let disallow = {
 }
 let discard = {
   category: 'SPECIAL',
-  punchline: 'Discard! Swap any card with another player.',
+  punchline: `Discard! Take any card from another player's hand.`,
 }
 let discombobulate = {
   category: 'SPECIAL',
@@ -113,6 +115,7 @@ cards.value.sort(() => Math.random() - 0.5)
 
 const refreshCard = () => {
   cardIndex.value++
+  dissOff.value = Math.random() < 0.2
 }
 
 const startNewRound = () => {
