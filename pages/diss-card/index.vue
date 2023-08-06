@@ -22,7 +22,7 @@
         >
           {{ punchline.punchline }}
         </div>
-        <div class="col col-4 md:col-3 lg:col-2 xl:col answer-card mx-2 mb-3">
+        <div class="col col-12 md:col-3 lg:col-2 xl:col answer-card mx-2 mb-3">
           <textarea
             type="text"
             class="w-full"
