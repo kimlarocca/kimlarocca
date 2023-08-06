@@ -3,6 +3,7 @@ declare module 'vue' {
   export interface GlobalComponents {
     'Card': typeof import("../components/Card.vue")['default']
     'DissCardAddPunchline': typeof import("../components/DissCard/AddPunchline.vue")['default']
+    'DissCardLogo': typeof import("../components/DissCard/Logo.vue")['default']
     'DissCardPunchline': typeof import("../components/DissCard/Punchline.vue")['default']
     'Hero': typeof import("../components/Hero.vue")['default']
     'PortfolioCard': typeof import("../components/PortfolioCard.vue")['default']
@@ -33,6 +34,7 @@ declare module 'vue' {
     'Body': typeof import("../node_modules/nuxt/dist/head/runtime/components")['Body']
     'LazyCard': typeof import("../components/Card.vue")['default']
     'LazyDissCardAddPunchline': typeof import("../components/DissCard/AddPunchline.vue")['default']
+    'LazyDissCardLogo': typeof import("../components/DissCard/Logo.vue")['default']
     'LazyDissCardPunchline': typeof import("../components/DissCard/Punchline.vue")['default']
     'LazyHero': typeof import("../components/Hero.vue")['default']
     'LazyPortfolioCard': typeof import("../components/PortfolioCard.vue")['default']
@@ -66,6 +68,7 @@ declare module 'vue' {
 
 export const Card: typeof import("../components/Card.vue")['default']
 export const DissCardAddPunchline: typeof import("../components/DissCard/AddPunchline.vue")['default']
+export const DissCardLogo: typeof import("../components/DissCard/Logo.vue")['default']
 export const DissCardPunchline: typeof import("../components/DissCard/Punchline.vue")['default']
 export const Hero: typeof import("../components/Hero.vue")['default']
 export const PortfolioCard: typeof import("../components/PortfolioCard.vue")['default']
@@ -96,6 +99,7 @@ export const Html: typeof import("../node_modules/nuxt/dist/head/runtime/compone
 export const Body: typeof import("../node_modules/nuxt/dist/head/runtime/components")['Body']
 export const LazyCard: typeof import("../components/Card.vue")['default']
 export const LazyDissCardAddPunchline: typeof import("../components/DissCard/AddPunchline.vue")['default']
+export const LazyDissCardLogo: typeof import("../components/DissCard/Logo.vue")['default']
 export const LazyDissCardPunchline: typeof import("../components/DissCard/Punchline.vue")['default']
 export const LazyHero: typeof import("../components/Hero.vue")['default']
 export const LazyPortfolioCard: typeof import("../components/PortfolioCard.vue")['default']

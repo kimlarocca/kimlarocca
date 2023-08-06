@@ -1,6 +1,6 @@
 <template>
   <div v-if="punchlines" class="diss-card text-center">
-    <h1 class="mb-6">Diss Card</h1>
+    <diss-card-logo class="lg:mt-4 mb-2" />
     <template v-if="cards && cards[cardIndex]">
       <div class="card">
         <span v-if="dissOff">DISS OFF!</span>
@@ -14,20 +14,22 @@
         @click="refreshCard"
         v-tooltip="'Select a new card'"
       />
-      <div class="grid mt-4 mb-6 justify-content-center">
+      <div class="grid mx-2 mt-4 mb-6 justify-content-center">
         <div
           v-for="(punchline, index) in punchlines.slice(0, 6)"
           :key="index"
-          class="col col-4 md:col-3 lg:col-2 xl:col answer-card mx-2 mb-3"
+          class="col col-12 sm:col-6 md:col-4 lg:col-2 xl:col answer-card mx-2 mb-3"
           :class="punchline.category"
         >
           {{ punchline.punchline }}
         </div>
-        <div class="col col-12 md:col-3 lg:col-2 xl:col answer-card mx-2 mb-3">
+        <div
+          class="col col-12 sm:col-6 md:col-4 lg:col-2 xl:col answer-card mx-2 mb-3"
+        >
           <textarea
             type="text"
             class="w-full"
-            placeholder="Enter your own punchline here!"
+            placeholder="Enter your own diss here!"
           />
         </div>
       </div>
@@ -77,28 +79,28 @@ if (adjectivesData) {
 let dismiss = {
   category: 'SPECIAL',
   punchline:
-    "Dismiss! I'm rubber, you're glue! (Block any card played by another player.)",
+    "I'm rubber, you're glue! DISMISS any card played by another player.",
 }
 let disallow = {
   category: 'SPECIAL',
-  punchline: "Disallow! Target player can't play a card.",
+  punchline: "DISALLOW! Target player can't play a card.",
 }
-let disown = {
+let disowned = {
   category: 'SPECIAL',
-  punchline: `Discard! Take any card that another player has played and use it yourself`,
+  punchline:
+    'DISOWNED! Take any card another player has played and use it yourself.',
 }
 let disscard = {
   category: 'SPECIAL',
-  punchline: 'Nothing beats DISS CARD! Automatically win the round!',
+  punchline: 'Nothing beats DISS CARD! Automatically win the round.',
 }
-let disembowel = {
+let disemboweled = {
   category: 'SPECIAL',
-  punchline:
-    'Disembowel! Target player (or yourself) draws a new hand of cards.',
+  punchline: 'DISEMBOWELED! Target player must draw a new hand of cards.',
 }
 let disheveled = {
   category: 'SPECIAL',
-  punchline: `Disheveled! Swap any player's hand with another player's hand.`,
+  punchline: `DISHEVELED! Swap any player's hand with another player's hand.`,
 }
 
 // populate the cards array with all possible combinations of the subjects and adjectives arrays
@@ -141,11 +143,12 @@ if (punchlinesData) {
   // add in the special cards 20 times each
   for (let i = 0; i < 20; i++) {
     punchlines.value.push(dismiss)
-    punchlines.value.push(disown)
-    punchlines.value.push(disembowel)
+    punchlines.value.push(disowned)
+    punchlines.value.push(disemboweled)
     punchlines.value.push(disallow)
     punchlines.value.push(disheveled)
   }
+  // add in the auto-win card 10 times
   for (let i = 0; i < 10; i++) {
     punchlines.value.push(disscard)
   }
@@ -190,7 +193,7 @@ if (punchlinesData) {
     padding: 20px;
     min-height: 225px;
     text-align: left;
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-weight: 400;
     line-height: 1.4;
     color: var(--black);
@@ -204,6 +207,7 @@ if (punchlinesData) {
     &.SPECIAL {
       background-color: var(--blue);
       color: var(--white);
+      font-weight: bold;
     }
   }
   textarea {
