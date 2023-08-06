@@ -72,22 +72,31 @@ if (adjectivesData) {
 }
 
 // create special cards
-let rubber = {
+let dismiss = {
   category: 'SPECIAL',
   punchline:
-    "I'm rubber, you're glue! (Block any card played by another player.)",
+    "Dismiss! I'm rubber, you're glue! (Block any card played by another player.)",
+}
+let disallow = {
+  category: 'SPECIAL',
+  punchline: "Disallow! Target player can't play a card.",
 }
 let discard = {
   category: 'SPECIAL',
-  punchline: 'Discard a Diss Card! (Swap any card with another player.)',
+  punchline: 'Discard! Swap any card with another player.',
 }
-let win = {
+let discombobulate = {
   category: 'SPECIAL',
-  punchline: 'I know you are, but what am I? (Automatically win the round.)',
+  punchline: 'Discombobulate! Automatically win the round!',
 }
-let whatever = {
+let disembowel = {
   category: 'SPECIAL',
-  punchline: 'What-eveeer. (Draw a new hand of cards.)',
+  punchline:
+    'Disembowel! Target player (or yourself) draws a new hand of cards.',
+}
+let disheveled = {
+  category: 'SPECIAL',
+  punchline: `Disheveled! Swap any player’s hand with another player's hand.`,
 }
 
 // populate the cards array with all possible combinations of the subjects and adjectives arrays
@@ -128,10 +137,14 @@ if (punchlinesData) {
   punchlines.value = punchlinesData
   // add in the special cards 20 times each
   for (let i = 0; i < 20; i++) {
-    punchlines.value.push(rubber)
+    punchlines.value.push(dismiss)
     punchlines.value.push(discard)
-    punchlines.value.push(win)
-    punchlines.value.push(whatever)
+    punchlines.value.push(disembowel)
+    punchlines.value.push(disallow)
+    punchlines.value.push(disheveled)
+  }
+  for (let i = 0; i < 10; i++) {
+    punchlines.value.push(discombobulate)
   }
   // randomize the punchlines
   punchlines.value.sort(() => Math.random() - 0.5)
