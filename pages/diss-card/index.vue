@@ -2,26 +2,37 @@
   <div v-if="punchlines" class="diss-card text-center">
     <diss-card-logo class="lg:mt-4 mb-2" />
     <template v-if="cards && cards[cardIndex]">
-      <div class="card">
-        <span v-if="dissOff">DISS OFF!</span>
-        Your {{ cards[cardIndex].subject }} is so
-        {{ cards[cardIndex].adjective }}...
+      <div class="relative w-fit m-auto mb-4">
+        <div class="card">
+          <span v-if="dissOff">DISS OFF!</span>
+          Your {{ cards[cardIndex].subject }} is so
+          {{ cards[cardIndex].adjective }}...
+        </div>
+        <Button
+          class="p-button-outlined p-button-rounded refresh"
+          icon="pi pi-refresh"
+          aria-label="Filter"
+          @click="refreshCard"
+          v-tooltip="'Swap this card out'"
+        />
       </div>
-      <Button
-        class="p-button-outlined p-button-rounded refresh mb-4"
-        icon="pi pi-refresh"
-        aria-label="Filter"
-        @click="refreshCard"
-        v-tooltip="'Select a new card'"
-      />
       <div class="grid mx-2 mt-4 mb-6 justify-content-center">
         <div
           v-for="(punchline, index) in punchlines.slice(0, 6)"
           :key="index"
-          class="col col-12 sm:col-6 md:col-4 lg:col-2 xl:col answer-card mx-2 mb-3"
+          class="col col-12 sm:col-6 md:col-4 lg:col-2 xl:col answer-card mx-2 mb-3 relative"
           :class="punchline.category"
         >
-          {{ punchline.punchline }}
+          <div>
+            {{ punchline.punchline }}
+          </div>
+          <Button
+            class="p-button-outlined p-button-rounded remove"
+            icon="pi pi-refresh"
+            aria-label="remove card"
+            @click="removePunchline(index)"
+            v-tooltip="'Swap this card out'"
+          />
         </div>
         <div
           class="col col-12 sm:col-6 md:col-4 lg:col-2 xl:col answer-card mx-2 mb-3"
@@ -33,8 +44,8 @@
           />
         </div>
       </div>
-      <button class="button cursor-pointer mb-6" @click="startNewRound">
-        Start A New Round
+      <button class="button cursor-pointer mb-6" @click="startNewGame">
+        Start A New Game
       </button>
     </template>
   </div>
@@ -120,7 +131,7 @@ const refreshCard = () => {
   dissOff.value = Math.random() < 0.2
 }
 
-const startNewRound = () => {
+const startNewGame = () => {
   // randomize the punchlines
   punchlines.value.sort(() => Math.random() - 0.5)
   // go to the next card
@@ -154,6 +165,11 @@ if (punchlinesData) {
   }
   // randomize the punchlines
   punchlines.value.sort(() => Math.random() - 0.5)
+}
+
+// remove punchline from punchlines array using the index
+const removePunchline = (index) => {
+  punchlines.value.splice(index, 1)
 }
 </script>
 
@@ -198,12 +214,6 @@ if (punchlinesData) {
     line-height: 1.4;
     color: var(--black);
     display: inline;
-    cursor: pointer;
-    opacity: 1;
-    transition: var(--transition);
-    &:hover {
-      opacity: var(--opacity-on-hover);
-    }
     &.SPECIAL {
       background-color: var(--blue);
       color: var(--white);
@@ -212,6 +222,19 @@ if (punchlinesData) {
   }
   textarea {
     height: 180px;
+  }
+  .refresh,
+  .remove {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+  }
+  .refresh {
+    color: var(--white);
+  }
+  .remove {
+    height: 1.75rem !important;
+    width: 1.75rem;
   }
 }
 </style>

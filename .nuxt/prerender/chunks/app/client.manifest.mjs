@@ -4,13 +4,13 @@ const client_manifest = {
     "file": "Logo.3976b8c2.css",
     "src": "Logo.css"
   },
-  "_Logo.a34225f2.js": {
+  "_Logo.60a30303.js": {
     "resourceType": "script",
     "module": true,
     "css": [
       "Logo.3976b8c2.css"
     ],
-    "file": "Logo.a34225f2.js",
+    "file": "Logo.60a30303.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -22,7 +22,7 @@ const client_manifest = {
   "layouts/blank.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "blank.d7dacb95.js",
+    "file": "blank.f5b96c79.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -32,7 +32,7 @@ const client_manifest = {
   "layouts/default.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "default.90fb5ae8.js",
+    "file": "default.c2d1f9a6.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -69,7 +69,7 @@ const client_manifest = {
       "layouts/default.vue",
       "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs"
     ],
-    "file": "entry.22322935.js",
+    "file": "entry.de3dd1cf.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js"
   },
@@ -220,9 +220,9 @@ const client_manifest = {
     "css": [
       "admin.c3c47eec.css"
     ],
-    "file": "admin.1251816e.js",
+    "file": "admin.f4c5fd38.js",
     "imports": [
-      "_Logo.a34225f2.js",
+      "_Logo.60a30303.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -234,25 +234,25 @@ const client_manifest = {
   },
   "pages/diss-card/index.css": {
     "resourceType": "style",
-    "file": "index.4368fdc9.css",
+    "file": "index.944b8dc5.css",
     "src": "pages/diss-card/index.css"
   },
   "pages/diss-card/index.vue": {
     "resourceType": "script",
     "module": true,
     "css": [
-      "index.4368fdc9.css"
+      "index.944b8dc5.css"
     ],
-    "file": "index.8930ab3e.js",
+    "file": "index.67684cbb.js",
     "imports": [
-      "_Logo.a34225f2.js",
+      "_Logo.60a30303.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
     "src": "pages/diss-card/index.vue"
   },
-  "index.4368fdc9.css": {
-    "file": "index.4368fdc9.css",
+  "index.944b8dc5.css": {
+    "file": "index.944b8dc5.css",
     "resourceType": "style"
   },
   "pages/index.css": {
@@ -266,7 +266,7 @@ const client_manifest = {
     "css": [
       "index.dbfe8a9e.css"
     ],
-    "file": "index.f02fe283.js",
+    "file": "index.ed952881.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -280,7 +280,7 @@ const client_manifest = {
   "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs": {
     "resourceType": "script",
     "module": true,
-    "file": "error-component.6d89e552.js",
+    "file": "error-component.8bf622ca.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
