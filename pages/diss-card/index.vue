@@ -83,13 +83,13 @@ let disallow = {
   category: 'SPECIAL',
   punchline: "Disallow! Target player can't play a card.",
 }
-let discard = {
+let disown = {
   category: 'SPECIAL',
-  punchline: `Discard! Take any card from another player's hand.`,
+  punchline: `Discard! Take any card that another player has played and use it yourself`,
 }
-let discombobulate = {
+let disscard = {
   category: 'SPECIAL',
-  punchline: 'Discombobulate! Automatically win the round!',
+  punchline: 'Nothing beats DISS CARD! Automatically win the round!',
 }
 let disembowel = {
   category: 'SPECIAL',
@@ -98,7 +98,7 @@ let disembowel = {
 }
 let disheveled = {
   category: 'SPECIAL',
-  punchline: `Disheveled! Swap any player’s hand with another player's hand.`,
+  punchline: `Disheveled! Swap any player's hand with another player's hand.`,
 }
 
 // populate the cards array with all possible combinations of the subjects and adjectives arrays
@@ -141,13 +141,13 @@ if (punchlinesData) {
   // add in the special cards 20 times each
   for (let i = 0; i < 20; i++) {
     punchlines.value.push(dismiss)
-    punchlines.value.push(discard)
+    punchlines.value.push(disown)
     punchlines.value.push(disembowel)
     punchlines.value.push(disallow)
     punchlines.value.push(disheveled)
   }
   for (let i = 0; i < 10; i++) {
-    punchlines.value.push(discombobulate)
+    punchlines.value.push(disscard)
   }
   // randomize the punchlines
   punchlines.value.sort(() => Math.random() - 0.5)
