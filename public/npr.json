@@ -1,0 +1,3896 @@
+{
+	"resources": [
+		{
+			"meta": {
+				"assetInternalLinkDocuments": [
+					{
+						"href": "/v1/documents/1230396910"
+					},
+					{
+						"href": "/v1/documents/1230566521"
+					},
+					{
+						"href": "/v1/documents/1230026990"
+					},
+					{
+						"href": "/v1/documents/1230636686"
+					},
+					{
+						"href": "/v1/documents/1230658309"
+					},
+					{
+						"href": "/v1/documents/1229437757"
+					},
+					{
+						"href": "/v1/documents/1230686821"
+					},
+					{
+						"href": "/v1/documents/1230729248"
+					},
+					{
+						"href": "/v1/documents/1230775293"
+					},
+					{
+						"href": "/v1/documents/1229431357"
+					},
+					{
+						"href": "/v1/documents/1230700858"
+					},
+					{
+						"href": "/v1/documents/1230621176"
+					},
+					{
+						"href": "/v1/documents/1230736266"
+					},
+					{
+						"href": "/v1/documents/1230771942"
+					},
+					{
+						"href": "/v1/documents/1230788187"
+					},
+					{
+						"href": "/v1/documents/1230747538"
+					},
+					{
+						"href": "/v1/documents/1230362633"
+					},
+					{
+						"href": "/v1/documents/1230828344"
+					},
+					{
+						"href": "/v1/documents/1229431685"
+					},
+					{
+						"href": "/v1/documents/1230433015"
+					},
+					{
+						"href": "/v1/documents/1229891045"
+					},
+					{
+						"href": "/v1/documents/1230658303"
+					},
+					{
+						"href": "/v1/documents/1230092751"
+					},
+					{
+						"href": "/v1/documents/1229920739"
+					},
+					{
+						"href": "/v1/documents/1227573912"
+					},
+					{
+						"href": "/v1/documents/1230711926"
+					},
+					{
+						"href": "/v1/documents/1230120289"
+					},
+					{
+						"href": "/v1/documents/1230699953"
+					},
+					{
+						"href": "/v1/documents/1223911518"
+					},
+					{
+						"href": "/v1/documents/448289941"
+					},
+					{
+						"href": "/v1/documents/1230828344"
+					},
+					{
+						"href": "/v1/documents/1230699953"
+					},
+					{
+						"href": "/v1/documents/1230431122"
+					},
+					{
+						"href": "/v1/documents/165681524"
+					}
+				],
+				"documentLastModifiedDateTime": "2024-02-12T15:55:34.498Z",
+				"extensionLinks": [],
+				"profiles": [
+					{
+						"href": "/v1/client-profiles/website-core-content"
+					}
+				]
+			},
+			"id": "1002",
+			"title": "Home Page Top Stories",
+			"profiles": [
+				{
+					"href": "/v1/profiles/homepage",
+					"rels": [
+						"type"
+					]
+				},
+				{
+					"href": "/v1/profiles/publishable",
+					"rels": [
+						"interface"
+					]
+				},
+				{
+					"href": "/v1/profiles/document"
+				},
+				{
+					"href": "/v1/profiles/renderable",
+					"rels": [
+						"interface"
+					]
+				},
+				{
+					"href": "/v1/profiles/has-images",
+					"rels": [
+						"interface"
+					]
+				},
+				{
+					"href": "/v1/profiles/buildout",
+					"rels": [
+						"interface"
+					]
+				}
+			],
+			"owners": [
+				{
+					"href": "https://organization.api.npr.org/v4/services/s1"
+				}
+			],
+			"brandings": [
+				{
+					"href": "https://organization.api.npr.org/v4/services/s1"
+				}
+			],
+			"publishDateTime": "2023-12-27T06:40:00-05:00",
+			"authorizedOrgServiceIds": [
+				"s1"
+			],
+			"autoRefreshInterval": 1800,
+			"editorialLastModifiedDateTime": "2024-02-12T10:54:38-05:00",
+			"images": [
+				{
+					"href": "#/assets/1230796322",
+					"rels": [
+						"primary",
+						"promo-image-standard",
+						"promo-image-square",
+						"promo-image-wide"
+					]
+				},
+				{
+					"href": "#/assets/1230691401"
+				},
+				{
+					"href": "#/assets/1230890680"
+				},
+				{
+					"href": "#/assets/1230843559"
+				},
+				{
+					"href": "#/assets/1230834100"
+				},
+				{
+					"href": "#/assets/1230842964"
+				},
+				{
+					"href": "#/assets/1230843454"
+				},
+				{
+					"href": "#/assets/1230798735"
+				},
+				{
+					"href": "#/assets/1230854932"
+				},
+				{
+					"href": "#/assets/1230831798"
+				},
+				{
+					"href": "#/assets/1230842955"
+				},
+				{
+					"href": "#/assets/1230827179"
+				},
+				{
+					"href": "#/assets/1230843550"
+				},
+				{
+					"href": "#/assets/1230862842"
+				},
+				{
+					"href": "#/assets/1230843556"
+				},
+				{
+					"href": "#/assets/1230843562"
+				},
+				{
+					"href": "#/assets/1230605866"
+				},
+				{
+					"href": "#/assets/1230787315"
+				},
+				{
+					"href": "#/assets/1230842967"
+				},
+				{
+					"href": "#/assets/1230844158"
+				},
+				{
+					"href": "#/assets/1230719477"
+				},
+				{
+					"href": "#/assets/1230658523"
+				},
+				{
+					"href": "#/assets/1230741175"
+				},
+				{
+					"href": "#/assets/1230843567"
+				},
+				{
+					"href": "#/assets/1230843553"
+				},
+				{
+					"href": "#/assets/1230608255"
+				},
+				{
+					"href": "#/assets/1230666350"
+				},
+				{
+					"href": "#/assets/1230648061"
+				},
+				{
+					"href": "#/assets/1230430314"
+				}
+			],
+			"layout": [
+				{
+					"href": "#/assets/1230691399",
+					"rels": [
+						"zone-topareastories"
+					]
+				},
+				{
+					"href": "#/assets/1230890678",
+					"rels": [
+						"zone-topareastories"
+					]
+				},
+				{
+					"href": "#/assets/1230843557",
+					"rels": [
+						"zone-topareastories"
+					]
+				},
+				{
+					"href": "#/assets/1230834098",
+					"rels": [
+						"zone-topareastories"
+					]
+				},
+				{
+					"href": "#/assets/1230842962",
+					"rels": [
+						"zone-topareastories"
+					]
+				},
+				{
+					"href": "#/assets/1230843452",
+					"rels": [
+						"zone-topareastories"
+					]
+				},
+				{
+					"href": "#/assets/1230798733",
+					"rels": [
+						"zone-topareastories"
+					]
+				},
+				{
+					"href": "#/assets/1230854930"
+				},
+				{
+					"href": "#/assets/1230826285"
+				},
+				{
+					"href": "#/assets/1230842953"
+				},
+				{
+					"href": "#/assets/1230827177"
+				},
+				{
+					"href": "#/assets/1230843548"
+				},
+				{
+					"href": "#/assets/1230862832"
+				},
+				{
+					"href": "#/assets/1230843554"
+				},
+				{
+					"href": "#/assets/1230843560"
+				},
+				{
+					"href": "#/assets/1230605864"
+				},
+				{
+					"href": "#/assets/1230787313"
+				},
+				{
+					"href": "#/assets/1230842965"
+				},
+				{
+					"href": "#/assets/1230844156"
+				},
+				{
+					"href": "#/assets/1230846744"
+				},
+				{
+					"href": "#/assets/1230718405"
+				},
+				{
+					"href": "#/assets/1230658521"
+				},
+				{
+					"href": "#/assets/1230741173"
+				},
+				{
+					"href": "#/assets/1230843565"
+				},
+				{
+					"href": "#/assets/1230843551"
+				},
+				{
+					"href": "#/assets/1230608253"
+				},
+				{
+					"href": "#/assets/1230666348"
+				},
+				{
+					"href": "#/assets/1230648059"
+				},
+				{
+					"href": "#/assets/1230430287"
+				}
+			],
+			"nprDisplayType": "HomePage",
+			"nprWebsitePath": "/",
+			"robotsNoIndex": false,
+			"seoTitle": "NPR - Breaking News, Analysis, Music, Arts & Podcasts",
+			"socialTitle": "NPR - News, Analysis, Music & Podcasts",
+			"teaser": "Top stories in the U.S. and world news, politics, health, science, business, music, arts and culture. Nonprofit journalism with a mission. This is NPR.",
+			"webPages": [
+				{
+					"href": "https://www.npr.org",
+					"rels": [
+						"canonical"
+					]
+				}
+			],
+			"assets": {
+				"1230430287": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230396910"
+					},
+					"emphasisLevel": "high",
+					"id": "1230430287",
+					"layout": [
+						{
+							"href": "#/assets/1230430314"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "The former Alabama Shakes leader is in total control of her new album's genre-defying odyssey through this thing called life, evoking the mastery of another do-it-all maestro: Prince.",
+					"title": "On 'What Now,' Brittany Howard is a virtuoso in pursuit of a flow state"
+				},
+				"1230430314": {
+					"caption": "Howard's vocal malleability allows her to access a whole spectrum of contradictory emotions and gender expressions.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 2331,
+							"href": "https://media.npr.org/assets/img/2024/02/09/gettyimages-1800354614-93e108ec6b662f6302a986aca18754de913f91e1.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/09/gettyimages-1800354614-93e108ec6b662f6302a986aca18754de913f91e1.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3108
+						},
+						{
+							"height": 2331,
+							"href": "https://media.npr.org/assets/img/2024/02/09/gettyimages-1800354614_sq-dd5d05bd15ded5bf439a2633fb88d8ec51f1f161.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/09/gettyimages-1800354614_sq-dd5d05bd15ded5bf439a2633fb88d8ec51f1f161.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2331
+						},
+						{
+							"height": 1968,
+							"href": "https://media.npr.org/assets/img/2024/02/09/gettyimages-1800354614_wide-0fadd0ac7b12ea5546f013710f02b83dd6940d90.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/09/gettyimages-1800354614_wide-0fadd0ac7b12ea5546f013710f02b83dd6940d90.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3500
+						},
+						{
+							"height": 2331,
+							"href": "https://media.npr.org/assets/img/2024/02/09/gettyimages-1800354614_custom-c54780a5508c0bca98a21a2e37a2fe7e2c0c5ea2.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/09/gettyimages-1800354614_custom-c54780a5508c0bca98a21a2e37a2fe7e2c0c5ea2.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3500
+						},
+						{
+							"height": 2331,
+							"href": "https://media.npr.org/assets/img/2024/02/09/gettyimages-1800354614_custom-c54780a5508c0bca98a21a2e37a2fe7e2c0c5ea2.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/09/gettyimages-1800354614_custom-c54780a5508c0bca98a21a2e37a2fe7e2c0c5ea2.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3500
+						}
+					],
+					"id": "1230430314",
+					"producer": "Medios y Media",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Getty Images",
+					"title": "Howard's vocal malleability allows her to access a whole spectrum of contradictory emotions and gender expressions."
+				},
+				"1230605864": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230566521"
+					},
+					"emphasisLevel": "high",
+					"id": "1230605864",
+					"layout": [
+						{
+							"href": "#/assets/1230605866"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "NPR asked our audiences to share their hard-won wisdom. We heard from more than 1,000 people, age 16 to 103! Here's a roundup of your best advice for thriving as you age.",
+					"title": "We asked. You answered. Here are your secrets to healthy aging"
+				},
+				"1230605866": {
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 1412,
+							"href": "https://media.npr.org/assets/img/2024/02/10/gettyimages-526298515-35f247d6f31019bdda69416721c217ab93d1e6b2.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/gettyimages-526298515-35f247d6f31019bdda69416721c217ab93d1e6b2.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1883
+						},
+						{
+							"height": 1335,
+							"href": "https://media.npr.org/assets/img/2024/02/10/gettyimages-526298515_sq-5a158c1ab9ff59e3f1cfd77577111d1fff78369c.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/gettyimages-526298515_sq-5a158c1ab9ff59e3f1cfd77577111d1fff78369c.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1335
+						},
+						{
+							"height": 1191,
+							"href": "https://media.npr.org/assets/img/2024/02/10/gettyimages-526298515_wide-aba2a693c4e7963ecd5604848038e92ac03b170a.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/gettyimages-526298515_wide-aba2a693c4e7963ecd5604848038e92ac03b170a.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2118
+						},
+						{
+							"height": 1412,
+							"href": "https://media.npr.org/assets/img/2024/02/10/gettyimages-526298515-35f247d6f31019bdda69416721c217ab93d1e6b2.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/gettyimages-526298515-35f247d6f31019bdda69416721c217ab93d1e6b2.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1883
+						}
+					],
+					"id": "1230605866",
+					"producer": "Peathegee Inc",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Getty Images/Tetra images RF",
+					"title": "Building strength and staying active are secrets to healthy aging shared by NPR's readers."
+				},
+				"1230608253": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230026990"
+					},
+					"emphasisLevel": "high",
+					"id": "1230608253",
+					"layout": [
+						{
+							"href": "#/assets/1230608255"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Much like Thanksgiving, many dishes eaten during the Lunar New Year are special to the holiday. NPR readers shared their most cherished dishes.",
+					"title": "Food holds special meaning on the Lunar New Year. Readers share their favorite dishes"
+				},
+				"1230608255": {
+					"caption": "NPR readers share the dishes they love most for the Lunar New Year.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 1078,
+							"href": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169--a263a2da8d9b0ad73c18036e14f096cd99daff7b.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169--a263a2da8d9b0ad73c18036e14f096cd99daff7b.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1438
+						},
+						{
+							"height": 1078,
+							"href": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169-_sq-6758a8de87ca9800ec20238289065803ad823fda.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169-_sq-6758a8de87ca9800ec20238289065803ad823fda.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1078
+						},
+						{
+							"height": 1075,
+							"href": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169-_wide-6535f7487bbdd9ee603a6f9e3cd0d0f30b5b3c6b.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169-_wide-6535f7487bbdd9ee603a6f9e3cd0d0f30b5b3c6b.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1911
+						},
+						{
+							"height": 1075,
+							"href": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169-_wide-6535f7487bbdd9ee603a6f9e3cd0d0f30b5b3c6b.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169-_wide-6535f7487bbdd9ee603a6f9e3cd0d0f30b5b3c6b.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1911
+						},
+						{
+							"height": 1078,
+							"href": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169-_custom-27b430bdc41e09a6ccac0a206b9257bc71606e56.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169-_custom-27b430bdc41e09a6ccac0a206b9257bc71606e56.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1920
+						},
+						{
+							"height": 1078,
+							"href": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169-_slide-8a8862084f2e3b2c44f09fa5c09bc967a870a543.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/yellow-modern-burger-presentation-169-_slide-8a8862084f2e3b2c44f09fa5c09bc967a870a543.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-slide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1617
+						}
+					],
+					"id": "1230608255",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Jing Gao; Alvina Chu; Amy Fedun; Beth Rogers-Ho; Alice Young; Elsy MektrakarnNguyen; Sarah Low; Anh Therese McCauley",
+					"title": "NPR readers share the dishes they love most for the Lunar New Year."
+				},
+				"1230648059": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230636686"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230648059",
+					"layout": [
+						{
+							"href": "#/assets/1230648061"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Mariah Carey, Cher, Sinéad O'Connor, Mary J. Blige and Sade are on the latest inductee shortlist. It's notable for an institution long focused on white male artists.",
+					"title": "High profile women stand out on the 2024 Rock &amp; Roll Hall of Fame shortlist"
+				},
+				"1230648061": {
+					"caption": "This combination of photos shows, from left, Mary J. Blige, Cher, and Mariah Carey, who are among the 2024 nominees for induction into the Rock & Roll Hall of Fame.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 1549,
+							"href": "https://media.npr.org/assets/img/2024/02/10/ap24040770803979-89177346e69e91d57b776003100a508ca32fc56c.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/ap24040770803979-89177346e69e91d57b776003100a508ca32fc56c.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2066
+						},
+						{
+							"height": 1544,
+							"href": "https://media.npr.org/assets/img/2024/02/10/ap24040770803979_sq-99908125fccbfbded651b9dea3fce092a0131e7b.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/ap24040770803979_sq-99908125fccbfbded651b9dea3fce092a0131e7b.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1544
+						},
+						{
+							"height": 1544,
+							"href": "https://media.npr.org/assets/img/2024/02/10/ap24040770803979_wide-30a9cfc73bfaa30ab2777a2bdcf2c8534dbdfe89.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/ap24040770803979_wide-30a9cfc73bfaa30ab2777a2bdcf2c8534dbdfe89.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2745
+						},
+						{
+							"height": 1533,
+							"href": "https://media.npr.org/assets/img/2024/02/10/ap24040770803979_custom-28d051a906ded8033ccc15fd7d5079b622855dff.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/ap24040770803979_custom-28d051a906ded8033ccc15fd7d5079b622855dff.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2963
+						},
+						{
+							"height": 1533,
+							"href": "https://media.npr.org/assets/img/2024/02/10/ap24040770803979_custom-28d051a906ded8033ccc15fd7d5079b622855dff.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/10/ap24040770803979_custom-28d051a906ded8033ccc15fd7d5079b622855dff.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2963
+						}
+					],
+					"id": "1230648061",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "AP",
+					"title": "This combination of photos shows, from left, Mary J. Blige, Cher, and Mariah Carey, who are among the 2024 nominees for induction into the Rock & Roll Hall of Fame."
+				},
+				"1230658521": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230658309"
+					},
+					"emphasisLevel": "low",
+					"id": "1230658521",
+					"layout": [
+						{
+							"href": "#/assets/1230658523"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Trump told a crowd in South Carolina that America would not defend NATO allies against Russia if they did not meet his definition of contributing enough defense spending, threatening to upend the alliance if elected president again in 2024.",
+					"title": "Trump says he wouldn't defend NATO allies from Russia if they're 'delinquent'"
+				},
+				"1230658523": {
+					"caption": "Republican presidential candidate former President Donald Trump speaks at a Get Out The Vote rally at Coastal Carolina University in Conway, S.C., Saturday, Feb. 10, 2024.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 2671,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap24041729430440-a96500da06eecc64e63e71271b70a2efda3069bc.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap24041729430440-a96500da06eecc64e63e71271b70a2efda3069bc.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3561
+						},
+						{
+							"height": 2671,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap24041729430440_sq-5913058946780f3635a3d3aa908f805bfd17d28f.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap24041729430440_sq-5913058946780f3635a3d3aa908f805bfd17d28f.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2671
+						},
+						{
+							"height": 2251,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap24041729430440_wide-faf111629e43c615d34a800f9182e2162dec3690.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap24041729430440_wide-faf111629e43c615d34a800f9182e2162dec3690.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4003
+						},
+						{
+							"height": 2671,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap24041729430440-a96500da06eecc64e63e71271b70a2efda3069bc.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap24041729430440-a96500da06eecc64e63e71271b70a2efda3069bc.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3561
+						},
+						{
+							"height": 2671,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap24041729430440_custom-ab6eced6c4caae2c553ccbd1239a6c1310f31ad9.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap24041729430440_custom-ab6eced6c4caae2c553ccbd1239a6c1310f31ad9.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4010
+						}
+					],
+					"id": "1230658523",
+					"producer": "Manuel Balce Ceneta",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "AP",
+					"title": "Republican presidential candidate former President Donald Trump speaks at a Get Out The Vote rally at Coastal Carolina University in Conway, S.C., Saturday, Feb. 10, 2024."
+				},
+				"1230666348": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1229437757"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230666348",
+					"layout": [
+						{
+							"href": "#/assets/1230666350"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "A growing number of South Korea's young adults are isolating themselves from society, raising questions about the state of youths in a country known for cutthroat competition and pressure to conform.",
+					"title": "Social isolation takes a toll on a rising number of South Korea's young adults"
+				},
+				"1230666350": {
+					"displaySize": "x-large",
+					"enclosures": [
+						{
+							"height": 1797,
+							"href": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final-06bf44a2aaf1554daaf2c11c22f05a5fd7af98e8.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final-06bf44a2aaf1554daaf2c11c22f05a5fd7af98e8.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2396
+						},
+						{
+							"height": 1797,
+							"href": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_sq-7776ecdec8780d43985fd17d0507a34b8befd271.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_sq-7776ecdec8780d43985fd17d0507a34b8befd271.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1797
+						},
+						{
+							"height": 1797,
+							"href": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_wide-95637c05cb9660852a557eb910fef78fdbf7577a.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_wide-95637c05cb9660852a557eb910fef78fdbf7577a.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3195
+						},
+						{
+							"height": 1797,
+							"href": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_custom-de498041de5196293872ed33bbd0d06a932293bf.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_custom-de498041de5196293872ed33bbd0d06a932293bf.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3200
+						},
+						{
+							"height": 1797,
+							"href": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_custom-de498041de5196293872ed33bbd0d06a932293bf.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_custom-de498041de5196293872ed33bbd0d06a932293bf.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3200
+						},
+						{
+							"height": 1471,
+							"href": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_brick-50a1f7ea5a03eee2ce43838688ef61eb13b498a5.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_brick-50a1f7ea5a03eee2ce43838688ef61eb13b498a5.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-brick",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3200
+						},
+						{
+							"height": 1788,
+							"href": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_vert-35ab6c61f585343cf0fe54fa2df19c47e546aaa6.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_vert-35ab6c61f585343cf0fe54fa2df19c47e546aaa6.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-vertical",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1341
+						},
+						{
+							"height": 1797,
+							"href": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_slide-1a71d90789113b1a4f2b5cc369ae0392837798dc.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/jesse-zhang-npr-final_slide-1a71d90789113b1a4f2b5cc369ae0392837798dc.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-slide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2696
+						}
+					],
+					"id": "1230666350",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Jesse Zhang for NPR",
+					"title": "."
+				},
+				"1230691399": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230686821"
+					},
+					"emphasisLevel": "low",
+					"id": "1230691399",
+					"layout": [
+						{
+							"href": "#/assets/1230691401"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "The storm is expected to bring snow, rain and gusty winds across the Northeast leading up to Valentine's Day. Up to a foot of snow is predicted in some places.",
+					"title": "A forecast nor'easter is expected to hit states from Pennsylvania to Maine"
+				},
+				"1230691401": {
+					"caption": "A mix of snow, rain and gusty winds is expected to blanket the Northeast between Monday and Tuesday.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 640,
+							"href": "https://media.npr.org/assets/img/2024/02/11/noaad3-801ab165e17f12e0de346d7633b890ae70ad4846.png",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/noaad3-801ab165e17f12e0de346d7633b890ae70ad4846.png?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/png",
+							"width": 853
+						},
+						{
+							"height": 640,
+							"href": "https://media.npr.org/assets/img/2024/02/11/noaad3_sq-6356b897ada32969452072030d8203fd22548569.png",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/noaad3_sq-6356b897ada32969452072030d8203fd22548569.png?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/png",
+							"width": 640
+						},
+						{
+							"height": 493,
+							"href": "https://media.npr.org/assets/img/2024/02/11/noaad3_wide-0ebc1d99b4e7dc9bae5a3e94e46a79f083fa8c0d.png",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/noaad3_wide-0ebc1d99b4e7dc9bae5a3e94e46a79f083fa8c0d.png?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/png",
+							"width": 877
+						},
+						{
+							"height": 640,
+							"href": "https://media.npr.org/assets/img/2024/02/11/noaad3-801ab165e17f12e0de346d7633b890ae70ad4846.png",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/noaad3-801ab165e17f12e0de346d7633b890ae70ad4846.png?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/png",
+							"width": 853
+						}
+					],
+					"id": "1230691401",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Weather Prediction Center/NOAA",
+					"title": "A mix of snow, rain and gusty winds is expected to blanket the Northeast between Monday and Tuesday."
+				},
+				"1230718405": {
+					"brandings": [
+						{
+							"href": "https://organization.api.npr.org/v4/services/s220"
+						}
+					],
+					"emphasisLevel": "low",
+					"externalLink": {
+						"href": "https://www.houstonpublicmedia.org/articles/news/crime/2024/02/11/477140/lakewood-church-houston-shooting-reported-sunday-joel-osteen-pastor/"
+					},
+					"id": "1230718405",
+					"layout": [
+						{
+							"href": "#/assets/1230719477"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/external-link",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Houston's police chief said a 35-year-old woman accompanied by a 5-year-old child and armed with a long rifle entered the west side of the church building Sunday afternoon. The 5-year-old child and a 57-year-old man were shot during the shooting, he said.",
+					"title": "A female shooter was killed and a young child and man were injured at a Houston megachurch"
+				},
+				"1230719477": {
+					"caption": "Flags fly in front of the Lakewood Church June 28, 2005 in Houston.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 1408,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap21337803460583-f819d58322a2b82ee4196d6bfa997b6fe3183058.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap21337803460583-f819d58322a2b82ee4196d6bfa997b6fe3183058.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1878
+						},
+						{
+							"height": 1408,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap21337803460583_sq-b1ac25ca4bc70a9436a80917c6a9b8a553a8f688.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap21337803460583_sq-b1ac25ca4bc70a9436a80917c6a9b8a553a8f688.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1408
+						},
+						{
+							"height": 1123,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap21337803460583_wide-c05648422656ae16440af706c8d5794cc1d1292b.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap21337803460583_wide-c05648422656ae16440af706c8d5794cc1d1292b.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1997
+						},
+						{
+							"height": 1408,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap21337803460583-f819d58322a2b82ee4196d6bfa997b6fe3183058.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap21337803460583-f819d58322a2b82ee4196d6bfa997b6fe3183058.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1878
+						}
+					],
+					"id": "1230719477",
+					"producer": "Pat Sullivan",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "AP",
+					"title": "Flags fly in front of the Lakewood Church June 28, 2005 in Houston."
+				},
+				"1230741173": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230729248"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230741173",
+					"layout": [
+						{
+							"href": "#/assets/1230741175"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "The Sunday afternoon announcement came just weeks after Austin was diagnosed with prostate cancer in December and hospitalized for a procedure.",
+					"title": "Defense Secretary Lloyd Austin is hospitalized again, weeks after cancer treatment"
+				},
+				"1230741175": {
+					"caption": "Defense Secretary Lloyd Austin speaks during a Pentagon press briefing at the Pentagon on Feb. 1 in Washington.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 2757,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap24032612688109-cf2270c2d479d0bcbb6128d99be4422af65bd2f1.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap24032612688109-cf2270c2d479d0bcbb6128d99be4422af65bd2f1.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3680
+						},
+						{
+							"height": 2757,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap24032612688109_sq-c263442532177f3acd8a82eae9b9a41c5d375aa9.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap24032612688109_sq-c263442532177f3acd8a82eae9b9a41c5d375aa9.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2760
+						},
+						{
+							"height": 2331,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap24032612688109_wide-0ffdd06bea946ee91355d21d8fedfe6036a93190.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap24032612688109_wide-0ffdd06bea946ee91355d21d8fedfe6036a93190.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4144
+						},
+						{
+							"height": 2757,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap24032612688109_custom-f36a7b62f1722aeb526a6836f146e5f9276f4ef9.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap24032612688109_custom-f36a7b62f1722aeb526a6836f146e5f9276f4ef9.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4144
+						},
+						{
+							"height": 2757,
+							"href": "https://media.npr.org/assets/img/2024/02/11/ap24032612688109_custom-f36a7b62f1722aeb526a6836f146e5f9276f4ef9.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/ap24032612688109_custom-f36a7b62f1722aeb526a6836f146e5f9276f4ef9.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4144
+						}
+					],
+					"id": "1230741175",
+					"producer": "Kevin Wolf",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "AP",
+					"title": "Defense Secretary Lloyd Austin speaks during a Pentagon press briefing at the Pentagon on Feb. 1 in Washington."
+				},
+				"1230787313": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230775293"
+					},
+					"emphasisLevel": "low",
+					"id": "1230787313",
+					"layout": [
+						{
+							"href": "#/assets/1230787315"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "World Athletics confirmed the 24-year-old died in his native Kenya alongside his coach, Gervais Hakizimana.",
+					"title": "Kelvin Kiptum, the men's marathon world record holder, dies in a car crash"
+				},
+				"1230787315": {
+					"caption": "Kelvin Kiptum of Kenya celebrates after winning the 2023 Chicago Marathon professional men's division and setting a world record marathon time of 2:00:35 at Grant Park on Oct. 8, 2023, in Chicago.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 3261,
+							"href": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1724503058-8788559326ad1240b139e2fe7c804f8438d11034.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1724503058-8788559326ad1240b139e2fe7c804f8438d11034.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4349
+						},
+						{
+							"height": 3261,
+							"href": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1724503058_sq-231d595457e6c790ffe3fe28024a05c2d499d85b.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1724503058_sq-231d595457e6c790ffe3fe28024a05c2d499d85b.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3261
+						},
+						{
+							"height": 2740,
+							"href": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1724503058_wide-dedbb0efe28f09a023cd9a7850df520668dbcdcd.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1724503058_wide-dedbb0efe28f09a023cd9a7850df520668dbcdcd.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4871
+						},
+						{
+							"height": 3261,
+							"href": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1724503058_custom-777b6c1b488a5171b59a9bb122a4c93911b7e788.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1724503058_custom-777b6c1b488a5171b59a9bb122a4c93911b7e788.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4897
+						},
+						{
+							"height": 3261,
+							"href": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1724503058_custom-777b6c1b488a5171b59a9bb122a4c93911b7e788.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1724503058_custom-777b6c1b488a5171b59a9bb122a4c93911b7e788.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4897
+						}
+					],
+					"id": "1230787315",
+					"producer": "Michael Reaves",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Getty Images",
+					"title": "Kelvin Kiptum of Kenya celebrates after winning the 2023 Chicago Marathon professional men's division and setting a world record marathon time of 2:00:35 at Grant Park on Oct. 8, 2023, in Chicago."
+				},
+				"1230796322": {
+					"caption": "San Francisco 49ers' wide reciever #15 Jauan Jennings celebrates scoring a touchdown during Super Bowl 58 at Allegiant Stadium in Las Vegas on Sunday.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 2601,
+							"href": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1996272881-106fc5ec1fd23af0a71727c4a6f8804019fe447b.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1996272881-106fc5ec1fd23af0a71727c4a6f8804019fe447b.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3468
+						},
+						{
+							"height": 2608,
+							"href": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1996272881_sq-72d301466e251d40c54f48a3d69047b3cceb6b0f.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1996272881_sq-72d301466e251d40c54f48a3d69047b3cceb6b0f.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2608
+						},
+						{
+							"height": 2202,
+							"href": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1996272881_wide-23ff37e989a87f12574c4a3422aad3df11af90b4.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1996272881_wide-23ff37e989a87f12574c4a3422aad3df11af90b4.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3916
+						},
+						{
+							"height": 2601,
+							"href": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1996272881-106fc5ec1fd23af0a71727c4a6f8804019fe447b.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/gettyimages-1996272881-106fc5ec1fd23af0a71727c4a6f8804019fe447b.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3468
+						}
+					],
+					"id": "1230796322",
+					"producer": "Patrick T. Fallon",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "AFP via Getty Images",
+					"title": "San Francisco 49ers' wide reciever #15 Jauan Jennings celebrates scoring a touchdown during Super Bowl 58 at Allegiant Stadium in Las Vegas on Sunday."
+				},
+				"1230798733": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1229431357"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230798733",
+					"layout": [
+						{
+							"href": "#/assets/1230798735"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "On Sunday night in Las Vegas' Allegiant Stadium, Usher hurried through a medley of many of his biggest hits and proved yet again why he's the current King of R&amp;B.",
+					"title": "Usher's Super Bowl Halftime show was chaotic but cemented his R&amp;B legacy"
+				},
+				"1230798735": {
+					"caption": "Usher performs during the Apple Music halftime show of Super Bowl LVIII in Las Vegas, Nevada.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 2023,
+							"href": "https://media.npr.org/assets/img/2024/02/11/usher-yeah-97f0bad59cd7f569f51dee31cdf3cca801a18596.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/usher-yeah-97f0bad59cd7f569f51dee31cdf3cca801a18596.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2697
+						},
+						{
+							"height": 2099,
+							"href": "https://media.npr.org/assets/img/2024/02/11/usher-yeah_sq-c6235cc7c31259785d23c1603dcebaab43c16def.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/usher-yeah_sq-c6235cc7c31259785d23c1603dcebaab43c16def.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2099
+						},
+						{
+							"height": 1896,
+							"href": "https://media.npr.org/assets/img/2024/02/11/usher-yeah_wide-a84979fea45e1202cc7767f47584ee584f9692bc.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/usher-yeah_wide-a84979fea45e1202cc7767f47584ee584f9692bc.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3372
+						},
+						{
+							"height": 2023,
+							"href": "https://media.npr.org/assets/img/2024/02/11/usher-yeah-97f0bad59cd7f569f51dee31cdf3cca801a18596.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/usher-yeah-97f0bad59cd7f569f51dee31cdf3cca801a18596.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2697
+						},
+						{
+							"height": 2099,
+							"href": "https://media.npr.org/assets/img/2024/02/11/usher-yeah_custom-01aec8048339a960d044401c88de8c53ceb1b88f.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/11/usher-yeah_custom-01aec8048339a960d044401c88de8c53ceb1b88f.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3372
+						}
+					],
+					"id": "1230798735",
+					"producer": "TIMOTHY A. CLARY",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "AFP via Getty Images",
+					"title": "Usher performs during the Apple Music halftime show of Super Bowl LVIII in Las Vegas, Nevada."
+				},
+				"1230826285": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230700858"
+					},
+					"emphasisLevel": "low",
+					"id": "1230826285",
+					"layout": [
+						{
+							"href": "#/assets/1230831798"
+						},
+						{
+							"href": "#/assets/1230826294"
+						},
+						{
+							"href": "#/assets/1230826296"
+						},
+						{
+							"href": "#/assets/1230826298"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Patrick Mahomes threw the game winner in overtime. Travis Kelce sang as Taylor Swift watched and the Kansas City Chiefs defeated the San Francisco 49ers to win its third Super Bowl title in five years.",
+					"title": "The Kansas City Chiefs win back-to-back Super Bowls"
+				},
+				"1230826294": {
+					"brandings": [],
+					"cardStyle": "InsetTwoColumn",
+					"documentLink": {
+						"href": "/v1/documents/1230621176"
+					},
+					"emphasisLevel": "medium",
+					"eyebrowText": "Super Bowl 2024",
+					"id": "1230826294",
+					"linkText": "Super Bowl 2024 updates: The commercials, cameos, halftime show and more",
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/promo-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"title": "Super Bowl 2024 updates: The commercials, cameos, halftime show and more"
+				},
+				"1230826296": {
+					"brandings": [],
+					"cardStyle": "InsetTwoColumn",
+					"documentLink": {
+						"href": "/v1/documents/1230736266"
+					},
+					"emphasisLevel": "medium",
+					"eyebrowText": "Super Bowl 2024",
+					"id": "1230826296",
+					"linkText": "High school football players, survivors of Maui wildfires, are honored at Super Bowl",
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/promo-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"title": "High school football players, survivors of Maui wildfires, are honored at Super Bowl"
+				},
+				"1230826298": {
+					"brandings": [],
+					"cardStyle": "InsetTwoColumn",
+					"documentLink": {
+						"href": "/v1/documents/1230771942"
+					},
+					"emphasisLevel": "medium",
+					"eyebrowText": "Super Bowl 2024",
+					"id": "1230826298",
+					"linkText": "The story behind Carl Weathers' posthumous Super Bowl ad",
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/promo-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"title": "The story behind Carl Weathers' posthumous Super Bowl ad"
+				},
+				"1230827177": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230788187"
+					},
+					"emphasisLevel": "low",
+					"id": "1230827177",
+					"layout": [
+						{
+							"href": "#/assets/1230827179"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Beyoncé teased, confirmed and dropped new music in the span of less than an hour during Sunday's Super Bowl. She released two songs, \"Texas Hold 'Em\" and \"16 Carriages,\" promising more in March.",
+					"title": "Beyoncé releases 2 new songs during the Super Bowl, teasing more to come"
+				},
+				"1230827179": {
+					"caption": "Beyoncé accepts the Best Dance/Electronic Music Album award for \"Renaissance\" onstage during the 65th GRAMMY Awards at<a href=\"http://crypto.com/\" target=\"_blank\" data-stringify-link=\"http://Crypto.com\" data-sk=\"tooltip_parent\">Crypto.com</a> Arena on February 05, 2023 in Los Angeles, California.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 2645,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1463293152-0eb1ab79284113ea601e8499c983b5f96300ef9f.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1463293152-0eb1ab79284113ea601e8499c983b5f96300ef9f.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3526
+						},
+						{
+							"height": 2580,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1463293152_sq-27e1a3766bdae619cc0c490caedef6879178dfd7.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1463293152_sq-27e1a3766bdae619cc0c490caedef6879178dfd7.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2580
+						},
+						{
+							"height": 2250,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1463293152_wide-9debeca4b9c4756ccd4cc680bbd5044849434ef6.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1463293152_wide-9debeca4b9c4756ccd4cc680bbd5044849434ef6.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4000
+						},
+						{
+							"height": 2662,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1463293152_slide-d4d302eff2b34bce04e3ffb3e9ec94a6ff4abf62.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1463293152_slide-d4d302eff2b34bce04e3ffb3e9ec94a6ff4abf62.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3993
+						},
+						{
+							"height": 2662,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1463293152_slide-d4d302eff2b34bce04e3ffb3e9ec94a6ff4abf62.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1463293152_slide-d4d302eff2b34bce04e3ffb3e9ec94a6ff4abf62.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-slide",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3993
+						}
+					],
+					"id": "1230827179",
+					"producer": "Frazer Harrison",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Getty Images",
+					"title": "Beyoncé accepts the Best Dance/Electronic Music Album award for \"Renaissance\" onstage during the 65th GRAMMY Awards at<a href=\"http://crypto.com/\" target=\"_blank\" data-stringify-link=\"http://Crypto.com\" data-sk=\"tooltip_parent\">Crypto.com</a> Arena on February 05, 2023 in Los Angeles, California."
+				},
+				"1230831798": {
+					"caption": "Kansas City Chiefs quarterback Patrick Mahomes celebrates with the Vince Lombardi trophy after his team's Super Bowl win in overtime against the San Francisco 49ers on Sunday in Las Vegas. The Chiefs won 25-22.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 1873,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24043190563348-ea482e9b8e3b966fb21b47258baffc03246f0fb2.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24043190563348-ea482e9b8e3b966fb21b47258baffc03246f0fb2.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2498
+						},
+						{
+							"height": 1873,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24043190563348_sq-f704f77681b3052e993448ae88e8883ed5fef083.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24043190563348_sq-f704f77681b3052e993448ae88e8883ed5fef083.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1873
+						},
+						{
+							"height": 1582,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24043190563348_wide-29a2b6fdc08b6544b4e0a7e880e97acd31fee119.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24043190563348_wide-29a2b6fdc08b6544b4e0a7e880e97acd31fee119.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2812
+						},
+						{
+							"height": 1582,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24043190563348_wide-29a2b6fdc08b6544b4e0a7e880e97acd31fee119.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24043190563348_wide-29a2b6fdc08b6544b4e0a7e880e97acd31fee119.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2812
+						}
+					],
+					"id": "1230831798",
+					"producer": "Ashley Landis",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "AP",
+					"title": "Kansas City Chiefs quarterback Patrick Mahomes celebrates with the Vince Lombardi trophy after his team's Super Bowl win in overtime against the San Francisco 49ers on Sunday in Las Vegas. The Chiefs won 25-22."
+				},
+				"1230834098": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230747538"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230834098",
+					"layout": [
+						{
+							"href": "#/assets/1230834100"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Donald Trump said on social media that copyright legislation he signed while president had made Swift \"so much money,\" arguing it would be \"disloyal\" of her to endorse Biden as many are speculating.",
+					"title": "Trump slams Swift, prompting other politicians to come out as Swifties"
+				},
+				"1230834100": {
+					"caption": "Taylor Swift attends the Super Bowl 58 in Las Vegas on Sunday.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 1889,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24042853273754-3124a2611a29447703da1d38d1e27d807eec7bd5.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24042853273754-3124a2611a29447703da1d38d1e27d807eec7bd5.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2519
+						},
+						{
+							"height": 1860,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24042853273754_sq-fbb4e49ed71d3934b9eb66ecfdc57e921c4bd5f6.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24042853273754_sq-fbb4e49ed71d3934b9eb66ecfdc57e921c4bd5f6.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1860
+						},
+						{
+							"height": 1593,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24042853273754_wide-f5cc115a650d21ba505049812ff4e343d03093dd.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24042853273754_wide-f5cc115a650d21ba505049812ff4e343d03093dd.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2832
+						},
+						{
+							"height": 1889,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24042853273754-3124a2611a29447703da1d38d1e27d807eec7bd5.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24042853273754-3124a2611a29447703da1d38d1e27d807eec7bd5.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2519
+						},
+						{
+							"height": 1869,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24042853273754_custom-4e497613e1235353a234146ba8ec4dd9c67bccdc.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24042853273754_custom-4e497613e1235353a234146ba8ec4dd9c67bccdc.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2812
+						}
+					],
+					"id": "1230834100",
+					"producer": "Ashley Landis",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "AP",
+					"title": "Taylor Swift attends the Super Bowl 58 in Las Vegas on Sunday."
+				},
+				"1230842953": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230362633"
+					},
+					"emphasisLevel": "low",
+					"id": "1230842953",
+					"layout": [
+						{
+							"href": "#/assets/1230842955"
+						},
+						{
+							"href": "#/assets/1230842957"
+						},
+						{
+							"href": "#/assets/1230843715"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/audio-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Aid organizations warn pockets of people in Gaza are already starving. But, in Israel, a small movement of protesters have been trying to block aid trucks from entering the Gaza Strip.",
+					"title": "As hunger stalks Gaza, humanitarian aid is politicized in Israel"
+				},
+				"1230842955": {
+					"caption": "Israeli border police watch over protesters attempting to block the road at the Kerem Shalom border crossing, where Israel inspects trucks and allows them to cross into the Gaza Strip.",
+					"displaySize": "x-large",
+					"enclosures": [
+						{
+							"height": 4000,
+							"href": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5-a12a1dda78a96a9746633896c4008424f62105ba.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5-a12a1dda78a96a9746633896c4008424f62105ba.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 5342
+						},
+						{
+							"height": 2994,
+							"href": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_sq-0fb65ce0c47f52fd7b60f3702fbf57df196ae894.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_sq-0fb65ce0c47f52fd7b60f3702fbf57df196ae894.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2994
+						},
+						{
+							"height": 3369,
+							"href": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_wide-2f5af76c72bc41b6ec9907966d6687945a559c8a.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_wide-2f5af76c72bc41b6ec9907966d6687945a559c8a.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 5989
+						},
+						{
+							"height": 3999,
+							"href": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_slide-249cfe4fa3f6902ebb09b29324cc7fb5f17a8759.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_slide-249cfe4fa3f6902ebb09b29324cc7fb5f17a8759.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 6000
+						},
+						{
+							"height": 4000,
+							"href": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_custom-3c1de2fd990f8aa72726e3bc6244488ec1ddaa2a.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_custom-3c1de2fd990f8aa72726e3bc6244488ec1ddaa2a.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 6000
+						},
+						{
+							"height": 2759,
+							"href": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_brick-c1a7adb088b064c99bd6bf9fdc0a8ee29d3bc83a.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_brick-c1a7adb088b064c99bd6bf9fdc0a8ee29d3bc83a.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-brick",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 6000
+						},
+						{
+							"height": 4000,
+							"href": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_vert-6aaba7da7e5516eb3d07f974de7874b9dd0f88f8.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_vert-6aaba7da7e5516eb3d07f974de7874b9dd0f88f8.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-vertical",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3005
+						},
+						{
+							"height": 3999,
+							"href": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_slide-249cfe4fa3f6902ebb09b29324cc7fb5f17a8759.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/kerem-shalom-protest_5_slide-249cfe4fa3f6902ebb09b29324cc7fb5f17a8759.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-slide",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 6000
+						}
+					],
+					"id": "1230842955",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Maya Levin for NPR",
+					"title": "Israeli border police watch over protesters attempting to block the road at the Kerem Shalom border crossing, where Israel inspects trucks and allows them to cross into the Gaza Strip."
+				},
+				"1230842957": {
+					"brandings": [],
+					"cardStyle": "InsetTwoColumn",
+					"documentLink": {
+						"href": "/v1/documents/1230828344"
+					},
+					"emphasisLevel": "medium",
+					"eyebrowText": "Middle East crisis — explained",
+					"id": "1230842957",
+					"linkText": "The Israeli military says it has rescued 2 hostages from captivity in Gaza",
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/promo-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"title": "The Israeli military says it has rescued 2 hostages from captivity in Gaza"
+				},
+				"1230842962": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1229431685"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230842962",
+					"layout": [
+						{
+							"href": "#/assets/1230842964"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Celebrities from Beyoncé to Arnold Schwarzenegger sold products with a wink.",
+					"title": "Super Bowl ads played it safe, but there were still some winners"
+				},
+				"1230842964": {
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 891,
+							"href": "https://media.npr.org/assets/img/2024/02/12/cardib-eba425b0991146ba3c275d93a46340d8ec4906bc.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/cardib-eba425b0991146ba3c275d93a46340d8ec4906bc.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1188
+						},
+						{
+							"height": 891,
+							"href": "https://media.npr.org/assets/img/2024/02/12/cardib_sq-9eb9fb6d88cc8c4a7b0c2309c271509c1aff3d4b.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/cardib_sq-9eb9fb6d88cc8c4a7b0c2309c271509c1aff3d4b.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 891
+						},
+						{
+							"height": 888,
+							"href": "https://media.npr.org/assets/img/2024/02/12/cardib_wide-262c22bbf4f98cd94f9c7fdc5d6afae49a2fc192.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/cardib_wide-262c22bbf4f98cd94f9c7fdc5d6afae49a2fc192.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1579
+						},
+						{
+							"height": 891,
+							"href": "https://media.npr.org/assets/img/2024/02/12/cardib-eba425b0991146ba3c275d93a46340d8ec4906bc.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/cardib-eba425b0991146ba3c275d93a46340d8ec4906bc.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1188
+						}
+					],
+					"id": "1230842964",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Screenshot by NPR",
+					"title": "Cardi B. in NYX Cosmetics ad"
+				},
+				"1230842965": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230433015"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230842965",
+					"layout": [
+						{
+							"href": "#/assets/1230842967"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/audio-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "On Feb. 12, 1924, a sassy fusion of jazz and classical music debuted in New York, sparking a mutual exchange of ideas still debated today.",
+					"title": "'Rhapsody in Blue': After a century, Gershwin's musical melting pot still resonates"
+				},
+				"1230842967": {
+					"caption": "George Gershwin, photographed in his 72nd Street apartment in New York in 1934. His <em>Rhapsody in Blue</em> premiered 100 years ago on Feb. 12, 1924.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 2396,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-559143865-edit-fix-42723ad7151dc4cea360f3ed0ea06005a3c107fc.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-559143865-edit-fix-42723ad7151dc4cea360f3ed0ea06005a3c107fc.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3195
+						},
+						{
+							"height": 2090,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-559143865-edit-fix_sq-2597deb8edffc3600011abba30b2bdf0a2ef6454.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-559143865-edit-fix_sq-2597deb8edffc3600011abba30b2bdf0a2ef6454.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2090
+						},
+						{
+							"height": 1795,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-559143865-edit-fix_wide-aa46dd376ea5a6873a92bcf930df490422c9cdba.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-559143865-edit-fix_wide-aa46dd376ea5a6873a92bcf930df490422c9cdba.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3191
+						},
+						{
+							"height": 2396,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-559143865-edit-fix-42723ad7151dc4cea360f3ed0ea06005a3c107fc.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-559143865-edit-fix-42723ad7151dc4cea360f3ed0ea06005a3c107fc.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3195
+						}
+					],
+					"id": "1230842967",
+					"producer": "PhotoQuest / Contributor",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Getty Images",
+					"title": "George Gershwin, photographed in his 72nd Street apartment in New York in 1934. His <em>Rhapsody in Blue</em> premiered 100 years ago on Feb. 12, 1924."
+				},
+				"1230843452": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1229891045"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230843452",
+					"layout": [
+						{
+							"href": "#/assets/1230843454"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/audio-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "In 2020, the United States experienced one of its most dangerous years in decades. But in 2023, crime in America looked very different. That change may have gone unnoticed.",
+					"title": "Violent crime is dropping fast in the U.S. — even if Americans don't believe it"
+				},
+				"1230843454": {
+					"caption": "What you see depends a lot on what you're looking at, according to one crime analyst.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 5499,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1246453656-ac459186263b57618dda25f77077acfa198000eb.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1246453656-ac459186263b57618dda25f77077acfa198000eb.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 7332
+						},
+						{
+							"height": 5499,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1246453656_sq-e7828364a914fc5024b0e58f5efd372c708dae3e.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1246453656_sq-e7828364a914fc5024b0e58f5efd372c708dae3e.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 5499
+						},
+						{
+							"height": 4644,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1246453656_wide-19c6d203373c0077c3fdc17b6981844f79e3df28.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1246453656_wide-19c6d203373c0077c3fdc17b6981844f79e3df28.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 8256
+						},
+						{
+							"height": 5499,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1246453656_custom-bcf18c16a010e0b41f3cbe02c71bc01ee78707af.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1246453656_custom-bcf18c16a010e0b41f3cbe02c71bc01ee78707af.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 8256
+						},
+						{
+							"height": 5499,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1246453656_custom-bcf18c16a010e0b41f3cbe02c71bc01ee78707af.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1246453656_custom-bcf18c16a010e0b41f3cbe02c71bc01ee78707af.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 8256
+						}
+					],
+					"id": "1230843454",
+					"producer": "Robyn Beck",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "AFP via Getty Images",
+					"title": "What you see depends a lot on what you're looking at, according to one crime analyst."
+				},
+				"1230843548": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230658303"
+					},
+					"emphasisLevel": "high",
+					"id": "1230843548",
+					"layout": [
+						{
+							"href": "#/assets/1230843550"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Luisa Yu spent the past five decades plotting to see all 193 U.N.-recognized countries. To realize her dream, she faced numerous visa hurdles and, later in life, made a career change.",
+					"title": "At 79, she reached her goal to visit every country in the world"
+				},
+				"1230843550": {
+					"caption": "Luisa Yu shows off mask woodcraft during her time in Abanga-Bigne, Gabon.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 1053,
+							"href": "https://media.npr.org/assets/img/2024/02/12/luisa-20ddbf3beedbf8b85f244fd7618782b22d3c319d.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/luisa-20ddbf3beedbf8b85f244fd7618782b22d3c319d.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1404
+						},
+						{
+							"height": 1024,
+							"href": "https://media.npr.org/assets/img/2024/02/12/luisa_sq-bde254856e217191c38283f2d1b63a260e6c691a.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/luisa_sq-bde254856e217191c38283f2d1b63a260e6c691a.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1024
+						},
+						{
+							"height": 1044,
+							"href": "https://media.npr.org/assets/img/2024/02/12/luisa_wide-afb652947c4d91cdf073c8b6c8937eddf088ef6e.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/luisa_wide-afb652947c4d91cdf073c8b6c8937eddf088ef6e.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1856
+						},
+						{
+							"height": 2048,
+							"href": "https://media.npr.org/assets/img/2024/02/12/luisa_custom-0a3d07f66cd51a1f534375c3bc34d10feb82a3f9.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/luisa_custom-0a3d07f66cd51a1f534375c3bc34d10feb82a3f9.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2048
+						},
+						{
+							"height": 2048,
+							"href": "https://media.npr.org/assets/img/2024/02/12/luisa_custom-0a3d07f66cd51a1f534375c3bc34d10feb82a3f9.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/luisa_custom-0a3d07f66cd51a1f534375c3bc34d10feb82a3f9.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2048
+						}
+					],
+					"id": "1230843550",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Luisa Yu",
+					"title": "Luisa Yu shows off mask woodcraft during her time in Abanga-Bigne, Gabon."
+				},
+				"1230843551": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230092751"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230843551",
+					"layout": [
+						{
+							"href": "#/assets/1230843553"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Judge Sunny Bailey started a specialty court program in 2018 called DAAY Court or the detention alternative for autistic youth treatment. \"It'll help other people like me,\" says one autistic teen.\"",
+					"title": "Youth with autism are more likely to be arrested. A Nevada judge wants to remedy that"
+				},
+				"1230843553": {
+					"caption": "Melody and her daughter Angeleena O'Connor, 16, at their home in Las Vegas. Angeleena has autism in addition to anxiety, bipolar disorder and intermittent explosive disorder, among other diagnoses that can cause violent outbursts.",
+					"displaySize": "x-large",
+					"enclosures": [
+						{
+							"height": 1573,
+							"href": "https://media.npr.org/assets/img/2024/02/12/2024-01-nevadaautismcourtprogram--kramirez-_40-d250e2fb74766e12445721bd4065921ef3a61d71.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/2024-01-nevadaautismcourtprogram--kramirez-_40-d250e2fb74766e12445721bd4065921ef3a61d71.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2097
+						},
+						{
+							"height": 1497,
+							"href": "https://media.npr.org/assets/img/2024/02/12/2024-01-nevadaautismcourtprogram--kramirez-_40_sq-d0317b0b5cb17c06213977a26da07572106bb13d.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/2024-01-nevadaautismcourtprogram--kramirez-_40_sq-d0317b0b5cb17c06213977a26da07572106bb13d.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1497
+						},
+						{
+							"height": 1206,
+							"href": "https://media.npr.org/assets/img/2024/02/12/2024-01-nevadaautismcourtprogram--kramirez-_40_wide-3942e563c0ac62548036de438012f950a8fdf253.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/2024-01-nevadaautismcourtprogram--kramirez-_40_wide-3942e563c0ac62548036de438012f950a8fdf253.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2144
+						},
+						{
+							"height": 1998,
+							"href": "https://media.npr.org/assets/img/2024/02/12/2024-01-nevadaautismcourtprogram--kramirez-_40_custom-d35178e363cff1dd2a32f8b8114429f9426eed0c.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/2024-01-nevadaautismcourtprogram--kramirez-_40_custom-d35178e363cff1dd2a32f8b8114429f9426eed0c.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3000
+						},
+						{
+							"height": 1998,
+							"href": "https://media.npr.org/assets/img/2024/02/12/2024-01-nevadaautismcourtprogram--kramirez-_40_custom-d35178e363cff1dd2a32f8b8114429f9426eed0c.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/2024-01-nevadaautismcourtprogram--kramirez-_40_custom-d35178e363cff1dd2a32f8b8114429f9426eed0c.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3000
+						}
+					],
+					"id": "1230843553",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Krystal Ramirez for NPR",
+					"title": "Melody and her daughter Angeleena O'Connor, 16, at their home in Las Vegas. Angeleena has autism in addition to anxiety, bipolar disorder and intermittent explosive disorder, among other diagnoses that can cause violent outbursts."
+				},
+				"1230843554": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1229920739"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230843554",
+					"layout": [
+						{
+							"href": "#/assets/1230843556"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "A doctor argues that the current focus on fighting obesity with drugs like Ozempic ignores the bigger picture: We need a medical system and society that support healthy life habits.",
+					"title": "Weight-loss drugs aren't a magic bullet. Lifestyle changes are key to lasting health"
+				},
+				"1230843556": {
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 1434,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1875370772-39a63425ef56528b41c727dbae6e1e08aa935494.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1875370772-39a63425ef56528b41c727dbae6e1e08aa935494.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1912
+						},
+						{
+							"height": 1434,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1875370772_sq-a1bb71993c663e06bf52767473a76395171dee24.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1875370772_sq-a1bb71993c663e06bf52767473a76395171dee24.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1434
+						},
+						{
+							"height": 1172,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1875370772_wide-da95665eb399fcd78c33c5f987da091ac3fe9621.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1875370772_wide-da95665eb399fcd78c33c5f987da091ac3fe9621.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2084
+						},
+						{
+							"height": 1434,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1875370772-39a63425ef56528b41c727dbae6e1e08aa935494.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1875370772-39a63425ef56528b41c727dbae6e1e08aa935494.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1912
+						}
+					],
+					"id": "1230843556",
+					"producer": "Amr Bo Shanab",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Getty Images/fStop",
+					"title": "Lifestyle medicine includes helping people eat a healthier diet."
+				},
+				"1230843557": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1227573912"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230843557",
+					"layout": [
+						{
+							"href": "#/assets/1230843559"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/audio-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Arguing that their jobs have become more onerous, flight attendants want to be better compensated for time on the ground, including during boarding.",
+					"title": "Flight attendants don't earn their hourly pay until aircraft doors close. Here's why"
+				},
+				"1230843559": {
+					"caption": "Under federal law, flight attendants cannot strike without permission from the federal government. The Association of Professional Flight Attendants says contract talks have reached an impasse, and flight attendants should be allowed to strike.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 3453,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1648995521-e2006f4dba885b51ee5a8ac6088c937faeb71dd7.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1648995521-e2006f4dba885b51ee5a8ac6088c937faeb71dd7.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4605
+						},
+						{
+							"height": 2571,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1648995521_sq-8cc00094cb390525578ec4c53348d0dd192a6e99.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1648995521_sq-8cc00094cb390525578ec4c53348d0dd192a6e99.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2571
+						},
+						{
+							"height": 3069,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1648995521_wide-9a154c3f8b5263e49d5cbe5eb795e05ec02b4b18.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1648995521_wide-9a154c3f8b5263e49d5cbe5eb795e05ec02b4b18.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 5456
+						},
+						{
+							"height": 3453,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1648995521-e2006f4dba885b51ee5a8ac6088c937faeb71dd7.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1648995521-e2006f4dba885b51ee5a8ac6088c937faeb71dd7.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 4605
+						}
+					],
+					"id": "1230843559",
+					"producer": "Kevin Dietsch",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Getty Images",
+					"title": "Under federal law, flight attendants cannot strike without permission from the federal government. The Association of Professional Flight Attendants says contract talks have reached an impasse, and flight attendants should be allowed to strike."
+				},
+				"1230843560": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230711926"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230843560",
+					"layout": [
+						{
+							"href": "#/assets/1230843562"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "A traveler returning from the Democratic Republic of Congo attempted to sneak in the mummified remains of four monkeys.",
+					"title": "Mummified monkey remains were found in luggage at Boston's airport"
+				},
+				"1230843562": {
+					"caption": "The traveler caught with the mummified monkey remains initially said the items were dried fish.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 1458,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24042639011915-1128c95d916ec769f8f07699fdf645b57f6e5791.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24042639011915-1128c95d916ec769f8f07699fdf645b57f6e5791.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1944
+						},
+						{
+							"height": 970,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24042639011915_sq-bd13aeea2280b4b46adf30ba376013a1984c8694.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24042639011915_sq-bd13aeea2280b4b46adf30ba376013a1984c8694.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 970
+						},
+						{
+							"height": 1093,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24042639011915_wide-cd4ef64999d777a4d47fa9e36220d0e20242f9b7.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24042639011915_wide-cd4ef64999d777a4d47fa9e36220d0e20242f9b7.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1944
+						},
+						{
+							"height": 1458,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24042639011915-1128c95d916ec769f8f07699fdf645b57f6e5791.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24042639011915-1128c95d916ec769f8f07699fdf645b57f6e5791.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1944
+						},
+						{
+							"height": 1582,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24042639011915_vert-4fc43cb6e1faec9609149205b43e9cd49ec98b1f.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24042639011915_vert-4fc43cb6e1faec9609149205b43e9cd49ec98b1f.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-vertical",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1186
+						}
+					],
+					"id": "1230843562",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Customs and Border Protection via AP",
+					"title": "The traveler caught with the mummified monkey remains initially said the items were dried fish."
+				},
+				"1230843565": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230120289"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230843565",
+					"layout": [
+						{
+							"href": "#/assets/1230843567"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Chocolate lovers won't see a sudden price spike for Valentine's Day — because the cost already has been rising for months. Extreme weather is largely to blame.",
+					"title": "Cocoa prices spiked to an all-time high right before Valentine's Day"
+				},
+				"1230843567": {
+					"caption": "Chocolate-makers and sellers have been raising prices to keep up with the skyrocketing costs of cocoa.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 1779,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap090202016359-ee1672b6855e058d87d54fc500bb1b171bb27edc.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap090202016359-ee1672b6855e058d87d54fc500bb1b171bb27edc.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2373
+						},
+						{
+							"height": 1475,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap090202016359_sq-6f54edca06f18d90c31ff653831f8721820c8928.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap090202016359_sq-6f54edca06f18d90c31ff653831f8721820c8928.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1475
+						},
+						{
+							"height": 1755,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap090202016359_wide-cdebeb3183b6227e7f1b7b5b66ffbba442dc66b9.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap090202016359_wide-cdebeb3183b6227e7f1b7b5b66ffbba442dc66b9.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3120
+						},
+						{
+							"height": 1779,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap090202016359-ee1672b6855e058d87d54fc500bb1b171bb27edc.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap090202016359-ee1672b6855e058d87d54fc500bb1b171bb27edc.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2373
+						}
+					],
+					"id": "1230843567",
+					"producer": "Hermann J. Knippertz",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "AP",
+					"title": "Chocolate-makers and sellers have been raising prices to keep up with the skyrocketing costs of cocoa."
+				},
+				"1230843715": {
+					"brandings": [],
+					"cardStyle": "InsetTwoColumn",
+					"documentLink": {
+						"href": "/v1/documents/1230699953"
+					},
+					"emphasisLevel": "medium",
+					"eyebrowText": "National Security",
+					"id": "1230843715",
+					"linkText": "Biden tells Netanyahu to 'not proceed' in Rafah without plan to protect civilians",
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/promo-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"title": "Biden tells Netanyahu to 'not proceed' in Rafah without plan to protect civilians"
+				},
+				"1230844156": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1223911518"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230844156",
+					"layout": [
+						{
+							"href": "#/assets/1230844158"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/audio-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Thousands of migrants have drowned while trying to cross the Mediterranean Sea from North Africa to Europe. The dangerous journey does not deter many more from the risky crossing.",
+					"title": "A rescue ship saved them from the sea. Now these migrants find a tough road in Europe"
+				},
+				"1230844158": {
+					"caption": "A wooden boat was spotted at night in international waters north of Libya by Doctors Without Borders' rescue team aboard the MV Geo Barents.",
+					"displaySize": "x-large",
+					"enclosures": [
+						{
+							"height": 2000,
+							"href": "https://media.npr.org/assets/img/2024/02/12/_58a2338--73d4af5601706c0f2fe6e053c1ad9913fdc681c1.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/_58a2338--73d4af5601706c0f2fe6e053c1ad9913fdc681c1.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2671
+						},
+						{
+							"height": 1497,
+							"href": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_sq-9ef3bcb3e4c2f2628be9bcfcaf76965048597ad0.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_sq-9ef3bcb3e4c2f2628be9bcfcaf76965048597ad0.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1497
+						},
+						{
+							"height": 1687,
+							"href": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_wide-3677af1e9dddb49fbebdb1cd988bd44a73afdec7.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_wide-3677af1e9dddb49fbebdb1cd988bd44a73afdec7.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3000
+						},
+						{
+							"height": 1999,
+							"href": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_slide-655f1801a390ba0d52122e6f388ddd38dd669d31.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_slide-655f1801a390ba0d52122e6f388ddd38dd669d31.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3000
+						},
+						{
+							"height": 2000,
+							"href": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_custom-5ccc714deaab8fd09a29b6e9366fa4f8a87a2eeb.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_custom-5ccc714deaab8fd09a29b6e9366fa4f8a87a2eeb.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3000
+						},
+						{
+							"height": 1379,
+							"href": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_brick-d0734f59afe1b71cef43eb5249e27d3800c971a5.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_brick-d0734f59afe1b71cef43eb5249e27d3800c971a5.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-brick",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3000
+						},
+						{
+							"height": 2000,
+							"href": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_vert-4a315da19bf959383f86c48669cafa4b702b5335.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_vert-4a315da19bf959383f86c48669cafa4b702b5335.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-vertical",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1502
+						},
+						{
+							"height": 1999,
+							"href": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_slide-655f1801a390ba0d52122e6f388ddd38dd669d31.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/_58a2338-_slide-655f1801a390ba0d52122e6f388ddd38dd669d31.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-slide",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3000
+						}
+					],
+					"id": "1230844158",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Valerio Muscella for NPR",
+					"title": "A wooden boat was spotted at night in international waters north of Libya by Doctors Without Borders' rescue team aboard the MV Geo Barents."
+				},
+				"1230846744": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/448289941"
+					},
+					"emphasisLevel": "high",
+					"id": "1230846744",
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "The dynamic vocalist sang \"Lift Every Voice and Sing\" at the Super Bowl last night. Watch her Tiny Desk from 2015.",
+					"title": "Andra Day: Tiny Desk Concert"
+				},
+				"1230854930": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230828344"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230854930",
+					"layout": [
+						{
+							"href": "#/assets/1230854932"
+						},
+						{
+							"href": "#/assets/1230854933"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Israeli military strikes in Rafah were part of an operation to rescue two Israeli hostages taken by Hamas on Oct. 7. There were initial reports that Palestinians were killed in the strikes.",
+					"title": "The Israeli military says it has rescued 2 hostages from captivity in Gaza"
+				},
+				"1230854932": {
+					"caption": "This photo provided by the Israeli military shows an Israeli Air Force helicopter carrying what the military said are two released hostages, at Sheba Medical Center in Ramat Gan, Israel, on Monday.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 825,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24043130808369-3e51ba207ad617dcc6837b4de85a3051c4026a0a.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24043130808369-3e51ba207ad617dcc6837b4de85a3051c4026a0a.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1100
+						},
+						{
+							"height": 766,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24043130808369_sq-af302172fdbcd514a85ab1c9359a8cb7df5a317e.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24043130808369_sq-af302172fdbcd514a85ab1c9359a8cb7df5a317e.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 766
+						},
+						{
+							"height": 652,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24043130808369_wide-398467df0ee20c913ff956936878c7435ba6e2a9.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24043130808369_wide-398467df0ee20c913ff956936878c7435ba6e2a9.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1159
+						},
+						{
+							"height": 825,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24043130808369-3e51ba207ad617dcc6837b4de85a3051c4026a0a.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24043130808369-3e51ba207ad617dcc6837b4de85a3051c4026a0a.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1100
+						},
+						{
+							"height": 633,
+							"href": "https://media.npr.org/assets/img/2024/02/12/ap24043130808369_custom-e131363fdb4fda130710ed46acced90090c7957a.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/ap24043130808369_custom-e131363fdb4fda130710ed46acced90090c7957a.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 849
+						}
+					],
+					"id": "1230854932",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Israel Defense Forces via AP",
+					"title": "This photo provided by the Israeli military shows an Israeli Air Force helicopter carrying what the military said are two released hostages, at Sheba Medical Center in Ramat Gan, Israel, on Monday."
+				},
+				"1230854933": {
+					"brandings": [],
+					"cardStyle": "SimpleNoDate",
+					"documentLink": {
+						"href": "/v1/documents/1230699953"
+					},
+					"emphasisLevel": "medium",
+					"eyebrowText": "National Security",
+					"id": "1230854933",
+					"linkText": "Biden tells Netanyahu to 'not proceed' in Rafah without plan to protect civilians",
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/promo-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"title": "Biden tells Netanyahu to 'not proceed' in Rafah without plan to protect civilians"
+				},
+				"1230862832": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/1230431122"
+					},
+					"emphasisLevel": "low",
+					"id": "1230862832",
+					"layout": [
+						{
+							"href": "#/assets/1230862842"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/audio-card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "James Elder is a spokesperson for UNICEF — the U.N. agency that provides humanitarian aid to children — and has been visiting the areas on the border of Sudan and Chad.",
+					"title": "An account from the front line of 'the largest displacement of children on the planet'"
+				},
+				"1230862842": {
+					"caption": "Fighters ride in a vehicle moving in a military convoy accompanying the governor of Sudan's Darfur State on Aug. 30, 2023.",
+					"displaySize": "x-large",
+					"enclosures": [
+						{
+							"height": 1998,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1633923203-80e3f945e23716cf4c8dacca23b114e69b1cebc0.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1633923203-80e3f945e23716cf4c8dacca23b114e69b1cebc0.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 2664
+						},
+						{
+							"height": 1998,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1633923203_sq-a001e8625b5c3ac288fcd9b768e34f9932ca6999.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1633923203_sq-a001e8625b5c3ac288fcd9b768e34f9932ca6999.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 1998
+						},
+						{
+							"height": 1687,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1633923203_wide-4bbc3cdde4f2ff812d60e2c215f6bb3166f2c3b8.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1633923203_wide-4bbc3cdde4f2ff812d60e2c215f6bb3166f2c3b8.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3000
+						},
+						{
+							"height": 1998,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1633923203_custom-55a513ed028dc84ddab3f2cf755a632b29406db4.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1633923203_custom-55a513ed028dc84ddab3f2cf755a632b29406db4.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3000
+						},
+						{
+							"height": 1998,
+							"href": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1633923203_custom-55a513ed028dc84ddab3f2cf755a632b29406db4.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/gettyimages-1633923203_custom-55a513ed028dc84ddab3f2cf755a632b29406db4.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-custom",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3000
+						}
+					],
+					"id": "1230862842",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "AFP via Getty Images",
+					"title": "Fighters ride in a vehicle moving in a military convoy accompanying the governor of Sudan's Darfur State on Aug. 30, 2023."
+				},
+				"1230890678": {
+					"brandings": [],
+					"documentLink": {
+						"href": "/v1/documents/165681524"
+					},
+					"emphasisLevel": "medium",
+					"id": "1230890678",
+					"layout": [
+						{
+							"href": "#/assets/1230890680"
+						}
+					],
+					"profiles": [
+						{
+							"href": "/v1/profiles/document"
+						},
+						{
+							"href": "/v1/profiles/card",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/container",
+							"rels": [
+								"interface"
+							]
+						},
+						{
+							"href": "/v1/profiles/internal-link",
+							"rels": [
+								"interface"
+							]
+						}
+					],
+					"teaser": "Edwards, a consummate newsman, hosted NPR's morning show for more than two decades. \"He sort of set the tone and the bar for all of us,\" says one former NPR executive.",
+					"title": "'The voice we woke up to': Bob Edwards, longtime 'Morning Edition' host, dies at 76"
+				},
+				"1230890680": {
+					"caption": "Bob Edwards (pictured in 1989) started his career at NPR as a newscaster and then hosted <em>All Things Considered</em> before moving to <em>Morning Edition</em>.",
+					"displaySize": "large",
+					"enclosures": [
+						{
+							"height": 2667,
+							"href": "https://media.npr.org/assets/img/2024/02/12/max-hirshfeld_11_1989-60a4764142d371dd13e34ce7d27ba362419ea976.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/max-hirshfeld_11_1989-60a4764142d371dd13e34ce7d27ba362419ea976.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-standard",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3557
+						},
+						{
+							"height": 3023,
+							"href": "https://media.npr.org/assets/img/2024/02/12/max-hirshfeld_11_1989_sq-1b46259896b29247b0f647ee6b8e0d5c528a6b04.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/max-hirshfeld_11_1989_sq-1b46259896b29247b0f647ee6b8e0d5c528a6b04.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-square",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3023
+						},
+						{
+							"height": 2025,
+							"href": "https://media.npr.org/assets/img/2024/02/12/max-hirshfeld_11_1989_wide-587771cd66845a2a7681eeb132f44709790b91c4.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/max-hirshfeld_11_1989_wide-587771cd66845a2a7681eeb132f44709790b91c4.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-wide",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3601
+						},
+						{
+							"height": 2371,
+							"href": "https://media.npr.org/assets/img/2024/02/12/max-hirshfeld_11_1989_slide-bff69d78a14638d4407b3afbd334d21a920146fa.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/max-hirshfeld_11_1989_slide-bff69d78a14638d4407b3afbd334d21a920146fa.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-enlargement",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3557
+						},
+						{
+							"height": 2371,
+							"href": "https://media.npr.org/assets/img/2024/02/12/max-hirshfeld_11_1989_slide-bff69d78a14638d4407b3afbd334d21a920146fa.jpg",
+							"hrefTemplate": "https://media.npr.org/assets/img/2024/02/12/max-hirshfeld_11_1989_slide-bff69d78a14638d4407b3afbd334d21a920146fa.jpg?s={width}&c={quality}&f={format}",
+							"rels": [
+								"image-slide",
+								"primary",
+								"scalable"
+							],
+							"type": "image/jpeg",
+							"width": 3557
+						}
+					],
+					"id": "1230890680",
+					"profiles": [
+						{
+							"href": "/v1/profiles/image",
+							"rels": [
+								"type"
+							]
+						},
+						{
+							"href": "/v1/profiles/document"
+						}
+					],
+					"provider": "Max Hirshfeld for NPR",
+					"title": "Bob Edwards (pictured in 1989) started his career at NPR as a newscaster and then hosted <em>All Things Considered</em> before moving to <em>Morning Edition</em>."
+				}
+			}
+		}
+	]
+}
