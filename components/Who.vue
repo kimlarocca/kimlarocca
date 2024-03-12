@@ -29,11 +29,10 @@
               Wharton, WQXR, WNYC, The Gothamist and more.
             </p>
             <p class="mb-4">
-              I currently manage the engineering team for NY Public Radio. In
-              addition to this, I've been working hard on Equal Time, a startup
-              I co-founded. Equal Time's mission is to make meetings more
-              inclusive and effective, and I drive all aspects of Engineering,
-              Design and Product.
+              I currently manage the software engineering, design and digital
+              operations team for NY Public Radio. In addition to this, I've
+              been working hard on 2 startups: Equal Time, where I am CTO &
+              Co-Founder, and Cuetip, where I am Director of Technology.
             </p>
             <p class="mb-6">
               When not working, you can find me rocking out with my cover band,
