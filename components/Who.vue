@@ -32,7 +32,7 @@
               I currently manage the software engineering, design and digital
               operations team for NY Public Radio. In addition to this, I've
               been working hard on 2 startups: Equal Time, where I am CTO &
-              Co-Founder, and Cuetip, where I am Director of Technology.
+              Co-Founder, and Cuetip, where I am CTO.
             </p>
             <p class="mb-6">
               When not working, you can find me rocking out with my cover band,

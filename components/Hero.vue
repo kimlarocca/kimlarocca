@@ -3,7 +3,7 @@
     <div id="hero"></div>
     <div class="container tagline">
       <h2 class="banner">engineering manager at npr</h2>
-      <h2 class="banner">co-founder at equal time</h2>
+      <h2 class="banner">cto at equal time & cuetip</h2>
     </div>
     <a
       href="#what"
@@ -20,7 +20,7 @@
 import * as THREE from 'three'
 
 export default {
-  mounted() {
+  mounted () {
     var camera,
       scene,
       renderer,
@@ -39,17 +39,17 @@ export default {
     init()
     animate()
 
-    async function init() {
+    async function init () {
       clock = new THREE.Clock()
 
-      renderer = new THREE.WebGLRenderer({ alpha: true })
-      renderer.setClearColor(0x000000, 0.1)
-      renderer.setSize(window.innerWidth, window.innerHeight)
+      renderer = new THREE.WebGLRenderer( { alpha: true } )
+      renderer.setClearColor( 0x000000, 0.1 )
+      renderer.setSize( window.innerWidth, window.innerHeight )
 
       scene = new THREE.Scene()
 
-      var ambientLight = new THREE.AmbientLight(0xffffff)
-      scene.add(ambientLight)
+      var ambientLight = new THREE.AmbientLight( 0xffffff )
+      scene.add( ambientLight )
 
       camera = new THREE.PerspectiveCamera(
         75,
@@ -58,61 +58,61 @@ export default {
         10000
       )
       camera.position.z = 1000
-      scene.add(camera)
+      scene.add( camera )
 
-      geometry = new THREE.CubeGeometry(200, 200, 200)
-      material = new THREE.MeshLambertMaterial({
+      geometry = new THREE.CubeGeometry( 200, 200, 200 )
+      material = new THREE.MeshLambertMaterial( {
         color: 0xf8cb8a,
         wireframe: false,
-      })
-      mesh = new THREE.Mesh(geometry, material)
+      } )
+      mesh = new THREE.Mesh( geometry, material )
       //scene.add( mesh );
       cubeSineDriver = 0
-      smokeTexture = THREE.ImageUtils.loadTexture('images/smoke.png')
-      smokeMaterial = new THREE.MeshLambertMaterial({
+      smokeTexture = THREE.ImageUtils.loadTexture( 'images/smoke.png' )
+      smokeMaterial = new THREE.MeshLambertMaterial( {
         color: 0xf8cb8a,
         opacity: 0.15,
         map: smokeTexture,
         transparent: true,
-      })
-      smokeGeo = new THREE.PlaneGeometry(300, 300)
+      } )
+      smokeGeo = new THREE.PlaneGeometry( 300, 300 )
       smokeParticles = []
 
-      for (p = 0; p < 150; p++) {
-        var particle = new THREE.Mesh(smokeGeo, smokeMaterial)
+      for ( p = 0; p < 150; p++ ) {
+        var particle = new THREE.Mesh( smokeGeo, smokeMaterial )
         particle.position.set(
           Math.random() * 500 - 250,
           Math.random() * 500 - 250,
           Math.random() * 1000 - 100
         )
         particle.rotation.z = Math.random() * 360
-        scene.add(particle)
-        smokeParticles.push(particle)
+        scene.add( particle )
+        smokeParticles.push( particle )
       }
 
-      document.getElementById('smoke').appendChild(renderer.domElement)
+      document.getElementById( 'smoke' ).appendChild( renderer.domElement )
     }
 
-    function animate() {
+    function animate () {
       delta = clock.getDelta()
-      requestAnimationFrame(animate)
+      requestAnimationFrame( animate )
       evolveSmoke()
       render()
     }
 
-    function evolveSmoke() {
+    function evolveSmoke () {
       var sp = smokeParticles.length
-      while (sp--) {
-        smokeParticles[sp].rotation.z += delta * 0.2
+      while ( sp-- ) {
+        smokeParticles[ sp ].rotation.z += delta * 0.2
       }
     }
 
-    function render() {
+    function render () {
       mesh.rotation.x += 0.005
       mesh.rotation.y += 0.01
       cubeSineDriver += 0.01
-      mesh.position.z = 100 + Math.sin(cubeSineDriver) * 500
-      renderer.render(scene, camera)
+      mesh.position.z = 100 + Math.sin( cubeSineDriver ) * 500
+      renderer.render( scene, camera )
     }
   },
 }
