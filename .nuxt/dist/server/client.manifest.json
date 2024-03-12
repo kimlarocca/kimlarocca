@@ -4,13 +4,13 @@
     "file": "Logo.3976b8c2.css",
     "src": "Logo.css"
   },
-  "_Logo.60a30303.js": {
+  "_Logo.497b23b4.js": {
     "resourceType": "script",
     "module": true,
     "css": [
       "Logo.3976b8c2.css"
     ],
-    "file": "Logo.60a30303.js",
+    "file": "Logo.497b23b4.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -22,7 +22,7 @@
   "layouts/blank.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "blank.f5b96c79.js",
+    "file": "blank.ee8ed7dc.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -32,7 +32,7 @@
   "layouts/default.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "default.c2d1f9a6.js",
+    "file": "default.8795bf6c.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -69,7 +69,7 @@
       "layouts/default.vue",
       "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs"
     ],
-    "file": "entry.de3dd1cf.js",
+    "file": "entry.a4d7a902.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js"
   },
@@ -220,9 +220,9 @@
     "css": [
       "admin.c3c47eec.css"
     ],
-    "file": "admin.f4c5fd38.js",
+    "file": "admin.b55a5605.js",
     "imports": [
-      "_Logo.60a30303.js",
+      "_Logo.497b23b4.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -243,9 +243,9 @@
     "css": [
       "index.944b8dc5.css"
     ],
-    "file": "index.67684cbb.js",
+    "file": "index.fe50b028.js",
     "imports": [
-      "_Logo.60a30303.js",
+      "_Logo.497b23b4.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -266,7 +266,7 @@
     "css": [
       "index.dbfe8a9e.css"
     ],
-    "file": "index.ed952881.js",
+    "file": "index.091d9c94.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -280,7 +280,7 @@
   "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs": {
     "resourceType": "script",
     "module": true,
-    "file": "error-component.8bf622ca.js",
+    "file": "error-component.34da8b1f.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
