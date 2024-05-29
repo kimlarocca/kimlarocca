@@ -4,13 +4,13 @@ const client_manifest = {
     "file": "Logo.3976b8c2.css",
     "src": "Logo.css"
   },
-  "_Logo.700a5df2.js": {
+  "_Logo.4be1e3fb.js": {
     "resourceType": "script",
     "module": true,
     "css": [
       "Logo.3976b8c2.css"
     ],
-    "file": "Logo.700a5df2.js",
+    "file": "Logo.4be1e3fb.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -22,7 +22,7 @@ const client_manifest = {
   "layouts/blank.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "blank.1bf9fbe4.js",
+    "file": "blank.e886be3e.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -32,7 +32,7 @@ const client_manifest = {
   "layouts/default.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "default.65c3b67a.js",
+    "file": "default.d5e92c00.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -69,7 +69,7 @@ const client_manifest = {
       "layouts/default.vue",
       "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs"
     ],
-    "file": "entry.da129ec1.js",
+    "file": "entry.08787a4f.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js"
   },
@@ -220,9 +220,9 @@ const client_manifest = {
     "css": [
       "admin.c3c47eec.css"
     ],
-    "file": "admin.0b77318c.js",
+    "file": "admin.a5d556dd.js",
     "imports": [
-      "_Logo.700a5df2.js",
+      "_Logo.4be1e3fb.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -243,9 +243,9 @@ const client_manifest = {
     "css": [
       "index.944b8dc5.css"
     ],
-    "file": "index.9f2c47fc.js",
+    "file": "index.47752c73.js",
     "imports": [
-      "_Logo.700a5df2.js",
+      "_Logo.4be1e3fb.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -266,7 +266,7 @@ const client_manifest = {
     "css": [
       "index.dbfe8a9e.css"
     ],
-    "file": "index.d658f11a.js",
+    "file": "index.e4af3ab3.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -280,7 +280,7 @@ const client_manifest = {
   "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs": {
     "resourceType": "script",
     "module": true,
-    "file": "error-component.a7fb4890.js",
+    "file": "error-component.c7b46232.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],

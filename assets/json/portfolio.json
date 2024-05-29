@@ -1,10 +1,10 @@
 [
   {
-    "name": "WNYC Radio",
-    "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1637972133/kimlarocca/portfolio/wnyc_nks1yf.png",
-    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1637969874/kimlarocca/portfolio/wnyc-showcase_fe7dbq.png",
+    "name": "WNYC App",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1717000096/kimlarocca/portfolio/WNYC-App-Thumbnail_tveknp.jpg",
+    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1716999879/kimlarocca/portfolio/WNYC-App_vmfbs4.jpg",
     "category": "media",
-    "description": "Kim led the NY Public Radio digital team in building a cutting edge online radio experience for WNYC using Vue & Nuxt. Nuxt did a case study on this project, read more at <a href='https://nuxtjs.org/case-studies/new-york-public-radio' target='_blank'>https://nuxtjs.org/case-studies/new-york-public-radio</a>, or listen to WNYC online at <a href='https://wnyc.org/radio' target='_blank'>https://wnyc.org/radio</a>!"
+    "description": "Kim led the NY Public Radio digital team in building a cutting edge app for WNYC using Vue, Nuxt, Capacitor and Supabase. WNYC 93.9 FM and AM 820 are New York's flagship public radio stations, broadcasting the finest programs from NPR, American Public Media, Public Radio Exchange and the BBC World Service, as well as a wide range of award-winning local programming. Learn more or download the app at <a href='https://www.wnyc.org/mobile/' target='_blank'>https://www.wnyc.org/mobile/</a>!"
   },
   {
     "name": "Equal Time",
@@ -32,7 +32,14 @@
     "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1637971865/kimlarocca/portfolio/gothamist_dpchcq.png",
     "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1673464356/kimlarocca/portfolio/gothamist_njzcjo.jpg",
     "category": "media",
-    "description": "Kim led the NY Public Radio digital team in migrating the Gothamist website from Ember to Vue 3 & Nuxt 3 which resulted in 80% faster page speeds and a 45% increase in average session duration. Nuxt did a case study on this project, read more at <a href='https://nuxtjs.org/case-studies/new-york-public-radio' target='_blank'>https://nuxtjs.org/case-studies/new-york-public-radio</a>, or check it out online at <a href='https://gothamist.com' target='_blank'>https://gothamist.com</a>!"
+    "description": "Kim led the NY Public Radio digital team in migrating the Gothamist website from Ember to Vue 3 & Nuxt 3 which resulted in 80% faster page speeds and a 45% increase in average session duration. Nuxt did a case study on this project! Check out the Gothamist website at <a href='https://gothamist.com' target='_blank'>https://gothamist.com</a>."
+  },
+  {
+    "name": "Cuetip",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1716913353/kimlarocca/portfolio/Cuetip_yuc0wo.jpg",
+    "vimeo": "https://player.vimeo.com/video/951177304?h=0bb4df2df4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+    "category": "tech",
+    "description": "Cuetip is a Tech and Data provider of premium technology and services to the entire supply chain in the cannabis space. Kim is the acting CTO and leads all aspects of Engineering, Design and Product, building web apps with data visualization dashboards. The websites built with Vue/Nuxt, Supabase, and Digital Ocean for hosting and DevOps. Check out Cuetip online at <a href='https://www.cuetip.com/' target='_blank'>https://www.cuetip.com</a>!"
   },
   {
     "name": "Toys\"R\"Us Product Engine",
@@ -49,17 +56,24 @@
     "description": "The San Francisco Symphony project included frontend development using Vue.js to build out a complete component library as well as Algolia integration for their new, interactive events calendar."
   },
   {
+    "name": "WNYC Radio",
+    "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1637972133/kimlarocca/portfolio/wnyc_nks1yf.png",
+    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1637969874/kimlarocca/portfolio/wnyc-showcase_fe7dbq.png",
+    "category": "media",
+    "description": "Kim led the NY Public Radio digital team in building a cutting edge online radio experience for WNYC using Vue & Nuxt. Nuxt did a case study on this project! Listen to WNYC online at <a href='https://wnyc.org/radio' target='_blank'>https://wnyc.org/radio</a>."
+  },
+  {
     "name": "Babies\"R\"Us Happy Places",
     "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736145/kimlarocca/portfolio/bru_xxkcos.jpg",
     "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1584736171/kimlarocca/portfolio/showcase-babies_bcvaor.jpg",
     "category": "ecommerce",
-    "description": "Happy Places, a responsive e-commerce Micro-Destination, featured an interactive parallax experience with CSS animations, full screen image sliders, responsive tooltips and lightboxes."
+    "description": "Happy Places, a responsive e-commerce Micro-Destination, featured an interactive parallax experience with CSS animations, full screen image sliders, responsive tooltips and light boxes."
   },
   {
     "name": "Wyndham Worldwide",
     "image": "https://res.cloudinary.com/kimlarocca/image/upload/f_auto/v1584736146/kimlarocca/portfolio/wyndham_ar9ybf.jpg",
     "url": "https://www.kimlarocca.com/images/showcase-wyndham.jpg",
-    "category": "healthcare",
+    "category": "tech",
     "description": "Real-time data visualization app built with Vue and Firebase for Wyndham Worldwide's revenue management department. Features an interactive chart and filtering system."
   },
   {

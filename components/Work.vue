@@ -14,6 +14,7 @@
         :image="portfolioItem.url"
         :title="portfolioItem.name"
         :description="portfolioItem.description"
+        :vimeo="portfolioItem.vimeo"
       />
     </div>
   </section>
@@ -23,7 +24,7 @@
 import portfolioItems from '../assets/json/portfolio.json'
 
 export default {
-  data() {
+  data () {
     return {
       portfolioItems: portfolioItems,
     }

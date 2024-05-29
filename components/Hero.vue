@@ -2,7 +2,7 @@
   <section id="home">
     <div id="hero"></div>
     <div class="container tagline">
-      <h2 class="banner">engineering manager at npr</h2>
+      <h2 class="banner">engineering manager at new york public radio</h2>
       <h2 class="banner">cto at equal time & cuetip</h2>
     </div>
     <a

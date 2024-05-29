@@ -7,6 +7,12 @@
     class="portfolio-item"
     :style="{ backgroundImage: `url('${backgroundImage}')` }"
   >
+    <Head>
+      <Script
+        v-if="vimeo !== ''"
+        src="https://player.vimeo.com/api/player.js"
+      />
+    </Head>
     <div>
       <h2 class="banner">{{ title }}</h2>
     </div>
@@ -29,7 +35,31 @@
             X
           </div>
           <h3 class="mb-6">{{ title }}</h3>
-          <img :src="image" :alt="title + ' screenshot'" class="mb-6" />
+          <img
+            v-if="image"
+            :src="image"
+            :alt="title + ' screenshot'"
+            class="mb-6"
+          />
+          <div
+            v-if="vimeo !== ''"
+            class="mb-6"
+            style="padding: 56.25% 0 0 0; position: relative"
+          >
+            <iframe
+              :src="vimeo"
+              frameborder="0"
+              allow="autoplay; fullscreen; picture-in-picture; clipboard-write"
+              style="
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+              "
+              title="Kim LaRocca | Portfolio Video"
+            ></iframe>
+          </div>
           <p v-html="description" class="mb-6" />
         </div>
       </div>
@@ -39,7 +69,7 @@
 
 <script>
 export default {
-  data() {
+  data () {
     return {
       portfolioItemShow: false,
     }
@@ -58,6 +88,10 @@ export default {
       default: '',
     },
     backgroundImage: {
+      type: String,
+      default: '',
+    },
+    vimeo: {
       type: String,
       default: '',
     },
