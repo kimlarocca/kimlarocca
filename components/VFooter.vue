@@ -67,9 +67,9 @@
 
 <script>
 export default {
-  mounted() {
-    var canvas = document.getElementById('canvas')
-    var ctx = canvas.getContext('2d')
+  mounted () {
+    var canvas = document.getElementById( 'canvas' )
+    var ctx = canvas.getContext( '2d' )
     canvas.width = window.innerWidth
     canvas.height = window.innerHeight
     var particles = []
@@ -83,10 +83,10 @@ export default {
       this.vy = Math.random()
     }
     // Adding two methods
-    Particle.prototype.Draw = function (ctx) {
+    Particle.prototype.Draw = function ( ctx ) {
       ctx.beginPath()
       ctx.fillStyle = 'rgba(255,255,255,0.15)'
-      ctx.arc(this.x, this.y, 3, 0, 3 * Math.PI)
+      ctx.arc( this.x, this.y, 3, 0, 3 * Math.PI )
       ctx.fill()
     }
 
@@ -95,28 +95,28 @@ export default {
       this.x += this.vx
       this.y += this.vy
 
-      if (this.x < 0) {
+      if ( this.x < 0 ) {
         this.x = canvas.width // resets back to beginning
       }
-      if (this.y < 0 || this.y > canvas.height) {
+      if ( this.y < 0 || this.y > canvas.height ) {
         // when it hits the top or bottom bounce
         this.vy = -this.vy
       }
     }
 
-    function loop() {
-      ctx.clearRect(0, 0, canvas.width, canvas.height)
+    function loop () {
+      ctx.clearRect( 0, 0, canvas.width, canvas.height )
 
-      for (var i = 0; i < numParticles; i++) {
-        particles[i].Update()
-        particles[i].Draw(ctx)
+      for ( var i = 0; i < numParticles; i++ ) {
+        particles[ i ].Update()
+        particles[ i ].Draw( ctx )
       }
-      requestAnimationFrame(loop)
+      requestAnimationFrame( loop )
     }
 
     // Create particles
-    for (var i = 0; i < numParticles; i++) {
-      particles.push(new Particle())
+    for ( var i = 0; i < numParticles; i++ ) {
+      particles.push( new Particle() )
     }
     loop()
   },
@@ -196,6 +196,7 @@ footer {
     height: 100%;
     top: 0;
     left: 0;
+    z-index: -1;
   }
 }
 </style>
