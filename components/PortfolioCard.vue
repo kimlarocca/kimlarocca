@@ -35,12 +35,6 @@
             X
           </div>
           <h3 class="mb-6">{{ title }}</h3>
-          <img
-            v-if="image"
-            :src="image"
-            :alt="title + ' screenshot'"
-            class="mb-6"
-          />
           <div
             v-if="vimeo !== ''"
             class="mb-6"
@@ -60,6 +54,12 @@
               title="Kim LaRocca | Portfolio Video"
             ></iframe>
           </div>
+          <img
+            v-if="image"
+            :src="image"
+            :alt="title + ' screenshot'"
+            class="mb-6"
+          />
           <p v-html="description" class="mb-6" />
         </div>
       </div>
