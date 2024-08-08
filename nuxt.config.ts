@@ -29,16 +29,16 @@ export default defineNuxtConfig({
     redirect: true,
   },
   css: [
-		'primevue/resources/themes/mdc-light-deeppurple/theme.css',
+        'primevue/resources/themes/mdc-light-deeppurple/theme.css',
     'primevue/resources/primevue.min.css',
-		'primeicons/primeicons.css',
-		'primeflex/primeflex.css',
-		'@/assets/styles/main.scss',
-	],
+        'primeicons/primeicons.css',
+        'primeflex/primeflex.css',
+        '@/assets/styles/main.scss',
+    ],
   components: true,
-	build: {
-		transpile: ['primevue'],
-	},
+    build: {
+        transpile: ['primevue'],
+    },
   runtimeConfig: {
     public: {
       supabaseUrl: process.env.NUXT_ENV_SUPABASE_URL,

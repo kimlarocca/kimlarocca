@@ -121,6 +121,7 @@ declare global {
 declare global {
   // @ts-ignore
   export type { Component, ComponentPublicInstance, ComputedRef, InjectionKey, PropType, Ref, VNode } from 'vue'
+  import('vue')
 }
 // for vue template auto import
 import { UnwrapRef } from 'vue'

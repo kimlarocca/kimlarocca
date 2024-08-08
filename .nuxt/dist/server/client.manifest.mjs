@@ -4,13 +4,13 @@ export default {
     "file": "Logo.3976b8c2.css",
     "src": "Logo.css"
   },
-  "_Logo.7077b178.js": {
+  "_Logo.f8244228.js": {
     "resourceType": "script",
     "module": true,
     "css": [
       "Logo.3976b8c2.css"
     ],
-    "file": "Logo.7077b178.js",
+    "file": "Logo.f8244228.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -22,7 +22,7 @@ export default {
   "layouts/blank.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "blank.202f0211.js",
+    "file": "blank.04020811.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -32,7 +32,7 @@ export default {
   "layouts/default.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "default.f7a03ad3.js",
+    "file": "default.c3442715.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -41,7 +41,7 @@ export default {
   },
   "node_modules/nuxt/dist/app/entry.css": {
     "resourceType": "style",
-    "file": "entry.0ae8a0e5.css",
+    "file": "entry.fc96a6ee.css",
     "src": "node_modules/nuxt/dist/app/entry.css"
   },
   "node_modules/nuxt/dist/app/entry.js": {
@@ -62,19 +62,19 @@ export default {
       "primeicons.5e10f102.svg"
     ],
     "css": [
-      "entry.0ae8a0e5.css"
+      "entry.fc96a6ee.css"
     ],
     "dynamicImports": [
       "layouts/blank.vue",
       "layouts/default.vue",
       "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs"
     ],
-    "file": "entry.8c4f9c45.js",
+    "file": "entry.3ceced0e.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js"
   },
-  "entry.0ae8a0e5.css": {
-    "file": "entry.0ae8a0e5.css",
+  "entry.fc96a6ee.css": {
+    "file": "entry.fc96a6ee.css",
     "resourceType": "style"
   },
   "roboto-v20-latin-ext_latin-regular.b86b128b.woff2": {
@@ -220,9 +220,9 @@ export default {
     "css": [
       "admin.c3c47eec.css"
     ],
-    "file": "admin.1b4f1ea0.js",
+    "file": "admin.1e2ebae9.js",
     "imports": [
-      "_Logo.7077b178.js",
+      "_Logo.f8244228.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -243,9 +243,9 @@ export default {
     "css": [
       "index.944b8dc5.css"
     ],
-    "file": "index.58104e1e.js",
+    "file": "index.acbd1a0d.js",
     "imports": [
-      "_Logo.7077b178.js",
+      "_Logo.f8244228.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -266,7 +266,7 @@ export default {
     "css": [
       "index.87a5b49a.css"
     ],
-    "file": "index.277d1b05.js",
+    "file": "index.15f0719e.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -277,10 +277,32 @@ export default {
     "file": "index.87a5b49a.css",
     "resourceType": "style"
   },
+  "pages/vue-sound/index.css": {
+    "resourceType": "style",
+    "file": "index.695f6e3d.css",
+    "src": "pages/vue-sound/index.css"
+  },
+  "pages/vue-sound/index.vue": {
+    "resourceType": "script",
+    "module": true,
+    "css": [
+      "index.695f6e3d.css"
+    ],
+    "file": "index.ba5e232d.js",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "pages/vue-sound/index.vue"
+  },
+  "index.695f6e3d.css": {
+    "file": "index.695f6e3d.css",
+    "resourceType": "style"
+  },
   "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs": {
     "resourceType": "script",
     "module": true,
-    "file": "error-component.98fe4e04.js",
+    "file": "error-component.9c618d64.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
