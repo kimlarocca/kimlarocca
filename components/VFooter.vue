@@ -3,7 +3,7 @@
     <div class="container">
       <h2 class="mb-4">Contact Me</h2>
       <div class="icon">
-        <a href="mailto:kim@kimlarocca.com" aria-label="email link">
+        <a href="mailto:kim@4siteusa.com" aria-label="email link">
           <svg
             version="1.1"
             xmlns="http://www.w3.org/2000/svg"

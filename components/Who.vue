@@ -29,16 +29,9 @@
               Wharton, WQXR, WNYC, The Gothamist and more.
             </p>
             <p class="mb-4">
-              I currently manage the software engineering, design and digital
-              operations team for NY Public Radio. In addition to this, I've
-              been working hard on 2 startups: Equal Time, where I am CTO &
-              Co-Founder, and Cuetip, where I am CTO.
-            </p>
-            <p class="mb-6">
               When not working, you can find me rocking out with my cover band,
               playing dodgeball, reading crappy fantasy novels, or playing
-              minecraft with my kids. Sadly, I have not yet made time to build a
-              Final Fantasy XV website.
+              minecraft with my kids.
             </p>
             <div class="text-center lg:text-left">
               <a
