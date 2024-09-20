@@ -54,35 +54,35 @@
 <script setup>
 import { createClient } from '@supabase/supabase-js'
 
-definePageMeta({
+definePageMeta( {
   layout: 'blank',
-})
+} )
 
 const config = useRuntimeConfig()
-const supabase = createClient(config.supabaseUrl, config.supabaseKey)
+const supabase = createClient( config.supabaseUrl, config.supabaseKey )
 
-const adjectives = ref(null)
-const cards = ref([])
-const cardIndex = ref(0)
-const dissOff = ref(false)
-const punchlines = ref(null)
-const subjects = ref(null)
+const adjectives = ref( null )
+const cards = ref( [] )
+const cardIndex = ref( 0 )
+const dissOff = ref( false )
+const punchlines = ref( null )
+const subjects = ref( null )
 
 // get subjects from supabase
 let { data: subjectsData } = await supabase
-  .from('subjects')
-  .select('*')
-  .order('subject')
-if (subjectsData) {
+  .from( 'subjects' )
+  .select( '*' )
+  .order( 'subject' )
+if ( subjectsData ) {
   subjects.value = subjectsData
 }
 
 // get adjectives from supabase
 let { data: adjectivesData } = await supabase
-  .from('adjectives')
-  .select('*')
-  .order('adjective')
-if (adjectivesData) {
+  .from( 'adjectives' )
+  .select( '*' )
+  .order( 'adjective' )
+if ( adjectivesData ) {
   adjectives.value = adjectivesData
 }
 
@@ -90,16 +90,16 @@ if (adjectivesData) {
 let dismiss = {
   category: 'SPECIAL',
   punchline:
-    "I'm rubber, you're glue! DISMISS any card played by another player.",
+    "I'm rubber, you're glue! DISSMISS any card played by another player.",
 }
 let disallow = {
   category: 'SPECIAL',
-  punchline: "DISALLOW! Target player can't play a card.",
+  punchline: "DISSALLOW! Target player can't play a card.",
 }
 let disowned = {
   category: 'SPECIAL',
   punchline:
-    'DISOWNED! Take any card another player has played and use it yourself.',
+    'DISSOWNED! Take any card another player has played and use it yourself.',
 }
 let disscard = {
   category: 'SPECIAL',
@@ -107,24 +107,24 @@ let disscard = {
 }
 let disemboweled = {
   category: 'SPECIAL',
-  punchline: 'DISEMBOWELED! Target player must draw a new hand of cards.',
+  punchline: 'DISSEMBOWELED! Target player must draw a new hand of cards.',
 }
 let disheveled = {
   category: 'SPECIAL',
-  punchline: `DISHEVELED! Swap any player's hand with another player's hand.`,
+  punchline: `DISSHEVELED! Swap any player's hand with another player's hand.`,
 }
 
 // populate the cards array with all possible combinations of the subjects and adjectives arrays
-for (let i = 0; i < subjects.value.length; i++) {
-  for (let j = 0; j < adjectives.value.length; j++) {
-    cards.value.push({
-      subject: subjects.value[i].subject,
-      adjective: adjectives.value[j].adjective,
-    })
+for ( let i = 0; i < subjects.value.length; i++ ) {
+  for ( let j = 0; j < adjectives.value.length; j++ ) {
+    cards.value.push( {
+      subject: subjects.value[ i ].subject,
+      adjective: adjectives.value[ j ].adjective,
+    } )
   }
 }
 // then randomize the cards
-cards.value.sort(() => Math.random() - 0.5)
+cards.value.sort( () => Math.random() - 0.5 )
 
 const refreshCard = () => {
   cardIndex.value++
@@ -133,11 +133,11 @@ const refreshCard = () => {
 
 const startNewGame = () => {
   // randomize the punchlines
-  punchlines.value.sort(() => Math.random() - 0.5)
+  punchlines.value.sort( () => Math.random() - 0.5 )
   // go to the next card
-  if (cards.value?.length - 1 === cardIndex.value) {
+  if ( cards.value?.length - 1 === cardIndex.value ) {
     // if we're at the end of the cards array, start over
-    cards.value.sort(() => Math.random() - 0.5)
+    cards.value.sort( () => Math.random() - 0.5 )
     cardIndex.value = 0
   } else {
     refreshCard()
@@ -146,30 +146,30 @@ const startNewGame = () => {
 
 // get punchlines from supabase
 let { data: punchlinesData } = await supabase
-  .from('punchlines')
-  .select('*')
-  .order('id')
-if (punchlinesData) {
+  .from( 'punchlines' )
+  .select( '*' )
+  .order( 'id' )
+if ( punchlinesData ) {
   punchlines.value = punchlinesData
   // add in the special cards 20 times each
-  for (let i = 0; i < 20; i++) {
-    punchlines.value.push(dismiss)
-    punchlines.value.push(disowned)
-    punchlines.value.push(disemboweled)
-    punchlines.value.push(disallow)
-    punchlines.value.push(disheveled)
+  for ( let i = 0; i < 20; i++ ) {
+    punchlines.value.push( dismiss )
+    punchlines.value.push( disowned )
+    punchlines.value.push( disemboweled )
+    punchlines.value.push( disallow )
+    punchlines.value.push( disheveled )
   }
   // add in the auto-win card 10 times
-  for (let i = 0; i < 10; i++) {
-    punchlines.value.push(disscard)
+  for ( let i = 0; i < 10; i++ ) {
+    punchlines.value.push( disscard )
   }
   // randomize the punchlines
-  punchlines.value.sort(() => Math.random() - 0.5)
+  punchlines.value.sort( () => Math.random() - 0.5 )
 }
 
 // remove punchline from punchlines array using the index
-const removePunchline = (index) => {
-  punchlines.value.splice(index, 1)
+const removePunchline = ( index ) => {
+  punchlines.value.splice( index, 1 )
 }
 </script>
 
