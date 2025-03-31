@@ -9,8 +9,8 @@
 ```javascript
 const kim = {
   pronouns: she | her | hers,
-  work: [senior software engineering manager @ ny public radio, co-founder and cto @ equal time, director of technology @ cuetip],
-  likes: [vue, nuxt, javascript, node, primevue, storybook, supabase, jam stack],
+  work: [director of engineering @ ny public radio, co-founder and cto @ equal time, director of technology @ cuetip],
+  likes: [vue, nuxt, javascript, node, primevue, storybook, supabase, jam stack, chocolate],
   website: kimlarocca.com,
   contact: kim@kimlarocca.com
 }
