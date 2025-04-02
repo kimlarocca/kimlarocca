@@ -5,14 +5,14 @@
     "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1717000096/kimlarocca/portfolio/WNYC-App-Thumbnail_tveknp.jpg",
     "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1716999879/kimlarocca/portfolio/WNYC-App_vmfbs4.jpg",
     "category": "media",
-    "description": "Kim led the NY Public Radio digital team in building a cutting edge app for WNYC using Vue, Nuxt, Capacitor and Supabase. WNYC 93.9 FM and AM 820 are New York's flagship public radio stations, broadcasting the finest programs from NPR, American Public Media, Public Radio Exchange and the BBC World Service, as well as a wide range of award-winning local programming. Learn more or download the app at <a href='https://www.wnyc.org/mobile/' target='_blank'>https://www.wnyc.org/mobile/</a>!"
+    "description": "Kim led the NY Public Radio digital team in building a cutting edge app for WNYC using Vue, Nuxt, Capacitor and Supabase. The year-long project included user research, development, and a multi-platform marketing campaign. The new design doubled daily sessions per user in the app during its first three months in the market and grew to 60K monthly users within the year.<br><br>WNYC reaches more than one million listeners each week and has the largest public radio audience in the United States. WNYC 93.9 FM and AM 820 are New York's flagship public radio stations, broadcasting the finest programs from NPR, American Public Media, Public Radio Exchange and the BBC World Service, as well as a wide range of award-winning local programming. Learn more or download the app at <a href='https://www.wnyc.org/mobile/' target='_blank'>https://www.wnyc.org/mobile/</a>!"
   },
   {
     "name": "Equal Time",
     "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1673032774/kimlarocca/portfolio/equal-time-thumbnail_fjtinh.jpg",
-    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1673117201/kimlarocca/portfolio/Large_Zoom_Screenshot_zsdfag.jpg",
+    "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1743613641/kimlarocca/portfolio/equal-time-poster_ywmpgd.jpg",
     "category": "tech",
-    "description": "Equal Time's mission is to make meetings more inclusive and effective. Kim co-founded this startup and is the acting CTO. She drives all aspects of Engineering, Design and Product, building web apps with data visualization dashboards, chrome extensions and Zoom apps. In addition, she assists with fundraising and recruiting. The websites and Zoom App were built with a Vue frontend and Node.js backend, Supabase, and Azure for hosting and DevOps. Check out Equal Time online at <a href='https://www.equaltime.io/' target='_blank'>https://www.equaltime.io</a>!"
+    "description": "Equal Time's mission is to make meetings more inclusive and effective, with 96% of users experiencing more engaging and inclusive meetings as a result of using Equal Time. Kim co-founded this startup and is the acting CTO. She drives all aspects of Engineering, Design and Product, building web apps with data visualization dashboards, chrome extensions and Zoom apps. In addition, she assists with fundraising and recruiting. The websites and Zoom App were built with a Vue frontend and Node.js backend, Supabase, and Digital Ocean for hosting and DevOps.<br><br>Equal Time has thousands of weekly users and our AI models have analyzed hundreds of thousands of virtual and hybrid meetings. Check out Equal Time online or sign up for a free account at <a href='https://www.equaltime.io/' target='_blank'>https://www.equaltime.io</a>!"
   },
   {
     "name": "Black Lives Matter",
@@ -33,14 +33,14 @@
     "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1637971865/kimlarocca/portfolio/gothamist_dpchcq.png",
     "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1673464356/kimlarocca/portfolio/gothamist_njzcjo.jpg",
     "category": "media",
-    "description": "Kim led the NY Public Radio digital team in migrating the Gothamist website from Ember to Vue 3 & Nuxt 3 which resulted in 80% faster page speeds and a 45% increase in average session duration. Nuxt did a case study on this project! Check out the Gothamist website at <a href='https://gothamist.com' target='_blank'>https://gothamist.com</a>."
+    "description": "Kim led the NY Public Radio digital team in migrating the Gothamist website from Ember to Vue 3 & Nuxt 3 which resulted in 80% faster page speeds, a 45% increase in average session duration, 15% more engaged sessions per user, 9% more engaged time per session, and a 54% growth in return users. The Nuxt team did a case study on this project!<br><br>Gothamist gets roughly 2M visits each month on average. Check out the Gothamist website at <a href='https://gothamist.com' target='_blank'>https://gothamist.com</a>."
   },
   {
     "name": "Cuetip",
     "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1716913353/kimlarocca/portfolio/Cuetip_yuc0wo.jpg",
     "vimeo": "https://player.vimeo.com/video/951177304?h=0bb4df2df4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
     "category": "tech",
-    "description": "Cuetip is a Tech and Data provider of premium technology and services to the entire supply chain in the cannabis space. Kim is the acting CTO and leads all aspects of Engineering, Design and Product, building web apps with data visualization dashboards. The websites built with Vue/Nuxt, Supabase, and Digital Ocean for hosting and DevOps. Check out Cuetip online at <a href='https://www.cuetip.com/' target='_blank'>https://www.cuetip.com</a>!"
+    "description": "Cuetip is a tech and data provider of premium technology and services to the entire supply chain in the cannabis space. Kim is the acting CTO and leads all aspects of Engineering, Design and Product, building web apps with data visualization dashboards. The websites are built with Vue/Nuxt, Supabase, and Digital Ocean for hosting and DevOps. Check out Cuetip online at <a href='https://www.cuetip.com/' target='_blank'>https://www.cuetip.com</a>!"
   },
   {
     "name": "Toys\"R\"Us Product Engine",
