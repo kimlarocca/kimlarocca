@@ -69,7 +69,7 @@
 
 <script>
 export default {
-  data () {
+  data() {
     return {
       portfolioItemShow: false,
     }
@@ -114,8 +114,8 @@ $max-width: 100vw;
     display: flex;
     cursor: pointer;
     align-items: center;
-    width: $max-width/3;
-    height: $max-width/3;
+    width: calc($max-width/3);
+    height: calc($max-width/3);
     opacity: 1;
     transition: $transition;
     overflow: hidden;
