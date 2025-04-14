@@ -4,13 +4,13 @@ export default {
     "file": "Logo.3976b8c2.css",
     "src": "Logo.css"
   },
-  "_Logo.8ec4713f.js": {
+  "_Logo.d22d4245.js": {
     "resourceType": "script",
     "module": true,
     "css": [
       "Logo.3976b8c2.css"
     ],
-    "file": "Logo.8ec4713f.js",
+    "file": "Logo.d22d4245.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -22,7 +22,7 @@ export default {
   "layouts/blank.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "blank.2a681aee.js",
+    "file": "blank.7b07f30a.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -32,7 +32,7 @@ export default {
   "layouts/default.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "default.69e24067.js",
+    "file": "default.fd96540c.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -69,7 +69,7 @@ export default {
       "layouts/default.vue",
       "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs"
     ],
-    "file": "entry.4777a01c.js",
+    "file": "entry.e20f77ee.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js"
   },
@@ -220,9 +220,9 @@ export default {
     "css": [
       "admin.c3c47eec.css"
     ],
-    "file": "admin.0dfcf406.js",
+    "file": "admin.78e15abc.js",
     "imports": [
-      "_Logo.8ec4713f.js",
+      "_Logo.d22d4245.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -243,9 +243,9 @@ export default {
     "css": [
       "index.944b8dc5.css"
     ],
-    "file": "index.297359f6.js",
+    "file": "index.f8c5fb8f.js",
     "imports": [
-      "_Logo.8ec4713f.js",
+      "_Logo.d22d4245.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -266,7 +266,7 @@ export default {
     "css": [
       "index.87a5b49a.css"
     ],
-    "file": "index.b400ed28.js",
+    "file": "index.7dc49185.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -288,7 +288,7 @@ export default {
     "css": [
       "index.695f6e3d.css"
     ],
-    "file": "index.8eeefa0e.js",
+    "file": "index.bb5c87b3.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -302,7 +302,7 @@ export default {
   "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs": {
     "resourceType": "script",
     "module": true,
-    "file": "error-component.416543ef.js",
+    "file": "error-component.8e3200d5.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],

@@ -5,7 +5,7 @@
     "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1717000096/kimlarocca/portfolio/WNYC-App-Thumbnail_tveknp.jpg",
     "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1716999879/kimlarocca/portfolio/WNYC-App_vmfbs4.jpg",
     "category": "media",
-    "description": "Kim led the NY Public Radio digital team in building a cutting edge app for WNYC using Vue, Nuxt, Capacitor and Supabase. The year-long project included user research, development, and a multi-platform marketing campaign. The new design doubled daily sessions per user in the app during its first three months in the market and grew to 60K monthly users within the year.<br><br>WNYC reaches more than one million listeners each week and has the largest public radio audience in the United States. WNYC 93.9 FM and AM 820 are New York's flagship public radio stations, broadcasting the finest programs from NPR, American Public Media, Public Radio Exchange and the BBC World Service, as well as a wide range of award-winning local programming. Learn more or download the app at <a href='https://www.wnyc.org/mobile/' target='_blank'>https://www.wnyc.org/mobile/</a>!"
+    "description": "Kim led the NY Public Radio digital team in building a cutting edge app for WNYC using Vue, Nuxt, Capacitor and Supabase. The year-long project included user research, development, and a multi-platform marketing campaign. The new design doubled daily sessions per user in the app during its first three months in the market and grew to 1M monthly sessions and 60K unique monthly users within the year.<br><br>WNYC reaches more than one million listeners each week and has the largest public radio audience in the United States. WNYC 93.9 FM and AM 820 are New York's flagship public radio stations, broadcasting the finest programs from NPR, American Public Media, Public Radio Exchange and the BBC World Service, as well as a wide range of award-winning local programming. Learn more or download the app at <a href='https://www.wnyc.org/mobile/' target='_blank'>https://www.wnyc.org/mobile/</a>!"
   },
   {
     "name": "Equal Time",
@@ -33,7 +33,7 @@
     "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1637971865/kimlarocca/portfolio/gothamist_dpchcq.png",
     "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1673464356/kimlarocca/portfolio/gothamist_njzcjo.jpg",
     "category": "media",
-    "description": "Kim led the NY Public Radio digital team in migrating the Gothamist website from Ember to Vue 3 & Nuxt 3 which resulted in 80% faster page speeds, a 45% increase in average session duration, 15% more engaged sessions per user, 9% more engaged time per session, and a 54% growth in return users. The Nuxt team did a case study on this project!<br><br>Gothamist gets roughly 2M visits each month on average. Check out the Gothamist website at <a href='https://gothamist.com' target='_blank'>https://gothamist.com</a>."
+    "description": "Kim led the NY Public Radio digital team in migrating the Gothamist website from Ember to Vue 3 & Nuxt 3 which resulted in 80% faster page speeds, a 45% increase in average session duration, 15% more engaged sessions per user, 9% more engaged time per session, and a 54% growth in return users. The Nuxt team did a case study on this project!<br><br>Gothamist gets roughly 2M unique visitors each month on average. Check out the Gothamist website at <a href='https://gothamist.com' target='_blank'>https://gothamist.com</a>."
   },
   {
     "name": "Cuetip",
