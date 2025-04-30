@@ -26,7 +26,7 @@
     "image": "https://res.cloudinary.com/kimlarocca/image/upload/v1673033543/kimlarocca/portfolio/radiolab-thumbnail_yiyiku.jpg",
     "url": "https://res.cloudinary.com/kimlarocca/image/upload/v1673033432/kimlarocca/portfolio/radolab_rvqqhj.jpg",
     "category": "media",
-    "description": "Radiolab is a popular podcast that gets over 1.5M monthly listeners and over 4M monthly downloads. Kim led the NY Public Radio digital team in the development of a new website for Radiolab, built with Nuxt 3, Vue 3, and Algolia for search. Check it out online at <a href='https://radiolab.org' target='_blank'>https://radiolab.org</a>!"
+    "description": "Radiolab is a popular podcast with over 1.5 million monthly listeners and over 4 million monthly downloads. Kim led the NY Public Radio digital team in developing a new website for Radiolab, built with Nuxt 3, Vue 3, and Algolia for search. Check it out online at <a href='https://radiolab.org' target='_blank'>https://radiolab.org</a>!"
   },
   {
     "name": "Gothamist",

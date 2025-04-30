@@ -4,13 +4,13 @@
     "file": "Logo.3976b8c2.css",
     "src": "Logo.css"
   },
-  "_Logo.3e07596d.js": {
+  "_Logo.7b4cc89d.js": {
     "resourceType": "script",
     "module": true,
     "css": [
       "Logo.3976b8c2.css"
     ],
-    "file": "Logo.3e07596d.js",
+    "file": "Logo.7b4cc89d.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ]
@@ -22,7 +22,7 @@
   "layouts/blank.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "blank.43f07d32.js",
+    "file": "blank.9ccd2e82.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -32,7 +32,7 @@
   "layouts/default.vue": {
     "resourceType": "script",
     "module": true,
-    "file": "default.f6330b97.js",
+    "file": "default.96b447db.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -69,7 +69,7 @@
       "layouts/default.vue",
       "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs"
     ],
-    "file": "entry.6f80df64.js",
+    "file": "entry.dd7fb5b5.js",
     "isEntry": true,
     "src": "node_modules/nuxt/dist/app/entry.js"
   },
@@ -220,9 +220,9 @@
     "css": [
       "admin.c3c47eec.css"
     ],
-    "file": "admin.b05f576e.js",
+    "file": "admin.10ace276.js",
     "imports": [
-      "_Logo.3e07596d.js",
+      "_Logo.7b4cc89d.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -243,9 +243,9 @@
     "css": [
       "index.944b8dc5.css"
     ],
-    "file": "index.d41ec700.js",
+    "file": "index.71874892.js",
     "imports": [
-      "_Logo.3e07596d.js",
+      "_Logo.7b4cc89d.js",
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
@@ -266,7 +266,7 @@
     "css": [
       "index.87a5b49a.css"
     ],
-    "file": "index.ac89c3c1.js",
+    "file": "index.2e7f09a4.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -288,7 +288,7 @@
     "css": [
       "index.695f6e3d.css"
     ],
-    "file": "index.c2fccd0a.js",
+    "file": "index.2e6bba06.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
@@ -302,7 +302,7 @@
   "virtual:nuxt:/Users/kimlarocca/Websites/kimlarocca/.nuxt/error-component.mjs": {
     "resourceType": "script",
     "module": true,
-    "file": "error-component.a03b2a28.js",
+    "file": "error-component.4ee96780.js",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
     ],
