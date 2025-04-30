@@ -30,8 +30,8 @@
             </p>
             <p class="mb-4">
               When not working, you can find me rocking out with my cover band,
-              playing dodgeball, reading crappy fantasy novels, or playing
-              minecraft with my kids.
+              watching Lord Of The Rings for the 100th time, reading fantasy
+              novels, or playing minecraft with my kids.
             </p>
             <div class="text-center lg:text-left">
               <a
