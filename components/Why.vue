@@ -175,6 +175,7 @@ export default {
 <style lang="scss">
 @import '../assets/styles/_variables.scss';
 #why {
+background: white;
   a.button {
     margin: 5px;
     @media all and (max-width: $breakpoint-mobile) {
@@ -198,7 +199,7 @@ export default {
       &.logo {
         margin: 1rem;
         padding: 5px;
-        background: $white;
+        // background: $white;
       }
     }
   }

@@ -31,3 +31,9 @@ export default {
   },
 }
 </script>
+
+<style scoped>
+#work {
+  background-color: white;
+}
+</style>
